@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block head_title %}
+The Practice Shed
+{% endblock %}
+
+{% block Search %}
+
+{% endblock %}
+{% block Page_Title %}
+The Saxophone Shed
+{% endblock %}
+
+{% block Exercise_Title %}
+    {{ exerciseName }}
+    {%  with messages = get_flashed_messages() %}
+        {%  if messages %}
+            <ul class=flashes>
+            {%  for message in messages %}
+                <li class="flash"> {{  message }} </li>
+            {%  endfor %}
+            </ul>
+        {%  endif %}
+    {% endwith %}
+
+    {%  block body %}{% endblock %}
+
+{% endblock %}
+
+{% block exerciseImage %}
+    <br><a href="">
+    <img src="{{ exerciseImage }}" alt="" class="p-3 bg-white text-dark"></a><br>
+{%  endblock %}
+
+{% block exerciseDescription %}
+    <br>{{ exerciseDescription }}<br><br>
+{% endblock %}
+
+{% block Heading1_title %}
+{% endblock %}
+
+{% block Small_Recipe_Image_1 %}
+{% endblock %}
+
+{% block Heading1_contents %}
+{% endblock %}
+
+{% block recipe_footer_link_1 %}
+{% endblock %}
+
+{% block Heading2_title %}
+{% endblock %}
+
+{% block Small_Recipe_Image_2 %}
+{% endblock %}
+
+{% block Heading2_contents %}
+{% endblock %}
+
+{% block recipe_footer_link_2 %}
+{% endblock %}
+
+{% block Heading3_title %}
+{% endblock %}
+
+{% block Small_Recipe_Image_3 %}
+{% endblock %}
+
+{% block Heading3_contents %}
+{% endblock %}
+
+{% block recipe_footer_link_3 %}
+{% endblock %}
+
+{% block footer_contents %}
+    Chris Harnett <br>
+    The Saxoophone Shed
+{% endblock %}

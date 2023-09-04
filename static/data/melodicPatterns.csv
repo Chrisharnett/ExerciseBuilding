@@ -1,0 +1,14 @@
+name,description,timeSignature,notePattern,preamble
+Two_Bar_Tied_Dotted_Half_Notes_Long_Tone,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.","(3, 4)","[[1, '2.~'], [1, '2.']]","#(set-global-staff-size 14)
+            "
+Whole_Note_Long_Tone,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.","(4, 4)","[['repeat', [1, '1']]]","#(set-global-staff-size 14)
+            "
+Three_Note_Scale,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+Repeat as many times as possible.","(4, 4)","[['repeat', [1, '4'], [2, '4'], [3, '4'], [2, '4']], [1, '1']]","#(set-global-staff-size 14)
+            "
