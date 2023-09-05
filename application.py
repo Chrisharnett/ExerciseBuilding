@@ -46,6 +46,39 @@ def getPatterns():
         "notePattern": [["repeat", [1, "4"], [2, "4"], [3, "4"], [2, "4"]],
                         [1, "1"]],
         "preamble": preamble
+    }, {
+        "name": "One_To_Five_Scale_Ascending_and_Descending",
+        "description": "Hold each note for the full value. "
+                       "\nUse a comfortable dynamic. "
+                       "\nStrive for a consistent, clear, in-tune, sound."
+                       "\nRepeat as many times as possible.",
+        "timeSignature": timeSignature,
+        "notePattern": [["repeat", [1, "4"], [2, "4"], [3, "4"], [4, "4"],
+                         [5, "4"], [4, "4"], [3, "4"], [2, "4"]],
+                        [1, "1"]],
+        "preamble": preamble
+    }, {
+        "name": "Five_To_One_Scale_Descending_and_Ascending",
+        "description": "Hold each note for the full value. "
+                       "\nUse a comfortable dynamic. "
+                       "\nStrive for a consistent, clear, in-tune, sound."
+                       "\nRepeat as many times as possible.",
+        "timeSignature": timeSignature,
+        "notePattern": [["repeat", [5, "4"], [4, "4"], [3, "4"], [2, "4"],
+                         [1, "4"], [2, "4"], [3, "4"], [4, "4"]],
+                        [5, "1"]],
+        "preamble": preamble
+    }, {
+        "name": "Ninth_Scale_Ascending_and_Descending",
+        "description": "Hold each note for the full value. "
+                       "\nUse a comfortable dynamic. "
+                       "\nStrive for a consistent, clear, in-tune, sound."
+                       "\nRepeat as many times as possible.",
+        "timeSignature": timeSignature,
+        "notePattern": [["repeat", [1, "8"], [2, "8"], [3, "8"], [4, "8"], [5, "8"], [6, "8"], [7, "8"], [8, "4"],
+                         [9, "8"], [8, "8"], [7, "8"], [6, "8"], [5, "8"], [4, "8"], [3, "8"], [2, "4"]],
+                        [1, "1"]],
+        "preamble": preamble
     }
 
     fields = ["name", "description", "timeSignature", "notePattern", "preamble"]
