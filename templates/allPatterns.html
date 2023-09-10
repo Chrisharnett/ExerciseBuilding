@@ -28,12 +28,20 @@ The Saxophone Shed
 {% endblock %}
 
 {% block exerciseImage %}
-    <br><a href="">
-    <img src="{{ exercise.getImage() }}" alt="" class="p-3 bg-white text-dark"></a><br>
+        <div id="exerciseList">
+            <ul class="list-unstyled">
+                {%  for exercise in exercises %}
+                <li class="pt-3">
+                    <h4>{{ exercise.__str__().replace("_", " ").title() }}</h4>
+                    <br> <a href="">
+                    <img src="{{ exercise.getImage }}" alt="" class="bg-white text-dark"></a><br>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
 {%  endblock %}
 
 {% block exerciseDescription %}
-    <br>{{ exercise.getDescription }}<br><br>
 {% endblock %}
 
 {% block Heading1_title %}
@@ -74,5 +82,5 @@ The Saxophone Shed
 
 {% block footer_contents %}
     Chris Harnett <br>
-    The Saxophone Shed
+    The Saxoophone Shed
 {% endblock %}

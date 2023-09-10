@@ -1,94 +1,47 @@
+import random
+import pickle
 from flask import Flask, render_template, url_for
 from objects import *
-import csv
+import patternsDictionary
 
 application = Flask(__name__)
 application.config['SUBMITTED_IMG'] = os.path.join('static', 'img', '')
 
-
 @application.route('/')
 def exercise():
+    # patternType, notePattern, Preamble, Description, TimeSignature, Rhythm, Articulation, Dynamic
     patterns = getPatterns()
-    ex = Exercise(pattern=patterns[0], key="a", mode="major")
 
-    return render_template('index.html', exerciseImage=ex.getImage(), exerciseName=ex.getName().replace("_", " "),
-                           exerciseDescrtiption=ex.getDescription(), exerciseDescription=ex.getDescription())
+    patternName, pattern = random.choice(list(patterns.items()))
+    ex = Exercise(pattern=pattern, key="a", mode="major", direction="")
 
-# Use a dictionary to create/store patterns
+    return render_template('index.html', exercise=ex)
+
+
+@application.route('/allPatterns')
+def allPatterns():
+
+    patterns = getPatterns()
+    # all exercises in G Major
+    allExercises = []
+    for exerciseId, pattern in enumerate(patterns):
+        ex = Exercise(exerciseId, patterns[pattern], key="g", mode="major")
+        allExercises.append(ex)
+
+    return render_template('allPatterns.html', exercises=allExercises)
+
+@application.route('/newPatternView')
+def newPatternView():
+    patternsDictionary.writeAllPatterns()
+    patterns = getPatterns()
+    lastPattern = list(patterns)[-1]
+    ex = Exercise(0, patterns.get(lastPattern), key="g", mode="major")
+
+    return render_template('newPatternView.html', exercise=ex)
+
 def getPatterns():
-    preamble = r"""#(set-global-staff-size 14)
-            """
-    timeSignature = (4, 4)
-
-    patterns = {
-        "name": "Two_Bar_Tied_Dotted_Half_Notes_Long_Tone",
-        "description": "Hold the note for the full value. "
-                       "\nUse a comfortable dynamic. "
-                       "\nStrive for a consistent, clear, in-tune, sound.",
-        "timeSignature": (3, 4),
-        "notePattern": [[1, "2.~"], [1, "2."]],
-        "preamble": preamble
-    }, {
-        "name": "Whole_Note_Long_Tone",
-        "description": "Hold the note for the full value. "
-                       "\nUse a comfortable dynamic. "
-                       "\nStrive for a consistent, clear, in-tune, sound.",
-        "timeSignature": timeSignature,
-        "notePattern": [["repeat", [1, "1"]]],
-        "preamble": preamble
-    }, {
-        "name": "Three_Note_Scale",
-        "description": "Hold each note for the full value. "
-                       "\nUse a comfortable dynamic. "
-                       "\nStrive for a consistent, clear, in-tune, sound."
-                       "\nRepeat as many times as possible.",
-        "timeSignature": timeSignature,
-        "notePattern": [["repeat", [1, "4"], [2, "4"], [3, "4"], [2, "4"]],
-                        [1, "1"]],
-        "preamble": preamble
-    }, {
-        "name": "One_To_Five_Scale_Ascending_and_Descending",
-        "description": "Hold each note for the full value. "
-                       "\nUse a comfortable dynamic. "
-                       "\nStrive for a consistent, clear, in-tune, sound."
-                       "\nRepeat as many times as possible.",
-        "timeSignature": timeSignature,
-        "notePattern": [["repeat", [1, "4"], [2, "4"], [3, "4"], [4, "4"],
-                         [5, "4"], [4, "4"], [3, "4"], [2, "4"]],
-                        [1, "1"]],
-        "preamble": preamble
-    }, {
-        "name": "Five_To_One_Scale_Descending_and_Ascending",
-        "description": "Hold each note for the full value. "
-                       "\nUse a comfortable dynamic. "
-                       "\nStrive for a consistent, clear, in-tune, sound."
-                       "\nRepeat as many times as possible.",
-        "timeSignature": timeSignature,
-        "notePattern": [["repeat", [5, "4"], [4, "4"], [3, "4"], [2, "4"],
-                         [1, "4"], [2, "4"], [3, "4"], [4, "4"]],
-                        [5, "1"]],
-        "preamble": preamble
-    }, {
-        "name": "Ninth_Scale_Ascending_and_Descending",
-        "description": "Hold each note for the full value. "
-                       "\nUse a comfortable dynamic. "
-                       "\nStrive for a consistent, clear, in-tune, sound."
-                       "\nRepeat as many times as possible.",
-        "timeSignature": timeSignature,
-        "notePattern": [["repeat", [1, "8"], [2, "8"], [3, "8"], [4, "8"], [5, "8"], [6, "8"], [7, "8"], [8, "4"],
-                         [9, "8"], [8, "8"], [7, "8"], [6, "8"], [5, "8"], [4, "8"], [3, "8"], [2, "4"]],
-                        [1, "1"]],
-        "preamble": preamble
-    }
-
-    fields = ["name", "description", "timeSignature", "notePattern", "preamble"]
-
-    with open("static/data/melodicPatterns.csv", "w", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=fields)
-        writer.writeheader()
-        for row in patterns:
-            writer.writerow(row)
-
+    with open("static/data/melodicPatterns.bin", "rb") as file:
+        patterns = pickle.load(file)
     return patterns
 
 
