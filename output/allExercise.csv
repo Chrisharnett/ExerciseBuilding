@@ -1,0 +1,913 @@
+exerciseId,patternId,exerciseName,imageFilename,imageURL,key,mode,rhythm,articulation,dynamic,timeSignature,direction,description,patternType
+0,0,G Major Whole Note Long Tone Fermata Pattern 0,0_g_major_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/0_g_major_whole_note_long_tone_fermata_Pattern_0.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+1,1,G Major Whole Note Long Tone Fermata Pattern 1,1_g_major_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/1_g_major_whole_note_long_tone_fermata_Pattern_1.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+2,2,G Major Quarter-Note Rhythm Pattern 2,2_g_major_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/2_g_major_quarter-note_rhythm_Pattern_2.cropped.png,g,major,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+3,3,G Major Quarter-Note Rhythm Pattern 3,3_g_major_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/3_g_major_quarter-note_rhythm_Pattern_3.cropped.png,g,major,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+4,4,G Major Quarter-Note Rhythm Pattern 4,4_g_major_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/4_g_major_quarter-note_rhythm_Pattern_4.cropped.png,g,major,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+5,5,G Major Quarter-Note Rhythm Pattern 5,5_g_major_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/5_g_major_quarter-note_rhythm_Pattern_5.cropped.png,g,major,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+6,6,G Major Whole Note Long Tone Pattern 6,6_g_major_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/6_g_major_whole_note_long_tone_Pattern_6.cropped.png,g,major,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+7,7,G Major Quarter-Note Interval Pattern 7,7_g_major_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/7_g_major_quarter-note_interval_Pattern_7.cropped.png,g,major,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+8,8,G Major Whole Note Long Tone Fermata Pattern 8,8_g_major_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/8_g_major_whole_note_long_tone_fermata_Pattern_8.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+9,9,G Major Quarter Note Scale Pattern 9,9_g_major_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/9_g_major_quarter_note_scale_Pattern_9.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+10,10,G Major Whole Note Long Tone Fermata Pattern 10,10_g_major_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/10_g_major_whole_note_long_tone_fermata_Pattern_10.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+11,11,G Major Quarter Note Scale Pattern 11,11_g_major_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/11_g_major_quarter_note_scale_Pattern_11.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+12,12,G Major Quarter Note Arpeggio Pattern 12,12_g_major_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/12_g_major_quarter_note_arpeggio_Pattern_12.cropped.png,g,major,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+13,13,G Major Whole Note Long Tone Fermata Pattern 13,13_g_major_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/13_g_major_whole_note_long_tone_fermata_Pattern_13.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+14,14,G Major Quarter Note Scale Pattern 14,14_g_major_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/14_g_major_quarter_note_scale_Pattern_14.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+15,15,G Major Quarter Note Scale Pattern 15,15_g_major_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/15_g_major_quarter_note_scale_Pattern_15.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+16,16,G Major Whole Note Long Tone Fermata Pattern 16,16_g_major_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/16_g_major_whole_note_long_tone_fermata_Pattern_16.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+17,17,G Major Quarter Note Scale Pattern 17,17_g_major_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/17_g_major_quarter_note_scale_Pattern_17.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+18,18,G Major Quarter Note Scale Pattern 18,18_g_major_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/18_g_major_quarter_note_scale_Pattern_18.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+19,19,G Major Whole Note Long Tone Fermata Pattern 19,19_g_major_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/19_g_major_whole_note_long_tone_fermata_Pattern_19.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+20,20,G Major Quarter Note Scale Pattern 20,20_g_major_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/20_g_major_quarter_note_scale_Pattern_20.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+21,21,G Major Quarter Note Arpeggio Pattern 21,21_g_major_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/21_g_major_quarter_note_arpeggio_Pattern_21.cropped.png,g,major,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+22,22,G Major Quarter Note Scale Pattern 22,22_g_major_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/22_g_major_quarter_note_scale_Pattern_22.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+23,23,G Major Quarter Note Arpeggio Pattern 23,23_g_major_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/23_g_major_quarter_note_arpeggio_Pattern_23.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+24,24,G Major Quarter Note Arpeggio Pattern 24,24_g_major_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/24_g_major_quarter_note_arpeggio_Pattern_24.cropped.png,g,major,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+25,25,G Major Whole Note Long Tone Fermata Pattern 25,25_g_major_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/25_g_major_whole_note_long_tone_fermata_Pattern_25.cropped.png,g,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+26,26,G Major Dotted Half Note Long Tone Pattern 26,26_g_major_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/26_g_major_dotted_half_note_long_tone_Pattern_26.cropped.png,g,major,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+27,27,G Major Quarter Note Rhythm Pattern 27,27_g_major_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/27_g_major_quarter_note_rhythm_Pattern_27.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+28,28,G Major Quarter Note Rhythm Pattern 28,28_g_major_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/28_g_major_quarter_note_rhythm_Pattern_28.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+29,29,G Major Quarter Note Rhythm Pattern 29,29_g_major_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/29_g_major_quarter_note_rhythm_Pattern_29.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+30,30,G Major Half Note Scale Pattern 30,30_g_major_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/30_g_major_half_note_scale_Pattern_30.cropped.png,g,major,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+31,31,G Major Scale Pattern 31,31_g_major_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/31_g_major_scale_Pattern_31.cropped.png,g,major,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+32,32,G Major Quarter Note Rhythm Pattern 32,32_g_major_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/32_g_major_quarter_note_rhythm_Pattern_32.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+33,33,G Major Quarter Note Rhythm Pattern 33,33_g_major_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/33_g_major_quarter_note_rhythm_Pattern_33.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+34,34,G Major Quarter Note Rhythm Pattern 34,34_g_major_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/34_g_major_quarter_note_rhythm_Pattern_34.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+35,35,G Major Quarter Note Scale Pattern 35,35_g_major_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/35_g_major_quarter_note_scale_Pattern_35.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+36,36,G Major Quarter Note Scale Pattern 36,36_g_major_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/36_g_major_quarter_note_scale_Pattern_36.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+37,37,G Major Quarter Note Scale Pattern 37,37_g_major_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/37_g_major_quarter_note_scale_Pattern_37.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+38,38,G Major Quarter Note Scale Pattern 38,38_g_major_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/38_g_major_quarter_note_scale_Pattern_38.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+39,39,G Major Quarter Note Scale Pattern 39,39_g_major_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/39_g_major_quarter_note_scale_Pattern_39.cropped.png,g,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+40,0,G Natural Minor Whole Note Long Tone Fermata Pattern 0,40_g_natural_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/40_g_natural_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+41,1,G Natural Minor Whole Note Long Tone Fermata Pattern 1,41_g_natural_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/41_g_natural_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+42,2,G Natural Minor Quarter-Note Rhythm Pattern 2,42_g_natural_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/42_g_natural_minor_quarter-note_rhythm_Pattern_2.cropped.png,g,natural_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+43,3,G Natural Minor Quarter-Note Rhythm Pattern 3,43_g_natural_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/43_g_natural_minor_quarter-note_rhythm_Pattern_3.cropped.png,g,natural_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+44,4,G Natural Minor Quarter-Note Rhythm Pattern 4,44_g_natural_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/44_g_natural_minor_quarter-note_rhythm_Pattern_4.cropped.png,g,natural_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+45,5,G Natural Minor Quarter-Note Rhythm Pattern 5,45_g_natural_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/45_g_natural_minor_quarter-note_rhythm_Pattern_5.cropped.png,g,natural_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+46,6,G Natural Minor Whole Note Long Tone Pattern 6,46_g_natural_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/46_g_natural_minor_whole_note_long_tone_Pattern_6.cropped.png,g,natural_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+47,7,G Natural Minor Quarter-Note Interval Pattern 7,47_g_natural_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/47_g_natural_minor_quarter-note_interval_Pattern_7.cropped.png,g,natural_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+48,8,G Natural Minor Whole Note Long Tone Fermata Pattern 8,48_g_natural_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/48_g_natural_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+49,9,G Natural Minor Quarter Note Scale Pattern 9,49_g_natural_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/49_g_natural_minor_quarter_note_scale_Pattern_9.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+50,10,G Natural Minor Whole Note Long Tone Fermata Pattern 10,50_g_natural_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/50_g_natural_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+51,11,G Natural Minor Quarter Note Scale Pattern 11,51_g_natural_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/51_g_natural_minor_quarter_note_scale_Pattern_11.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+52,12,G Natural Minor Quarter Note Arpeggio Pattern 12,52_g_natural_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/52_g_natural_minor_quarter_note_arpeggio_Pattern_12.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+53,13,G Natural Minor Whole Note Long Tone Fermata Pattern 13,53_g_natural_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/53_g_natural_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+54,14,G Natural Minor Quarter Note Scale Pattern 14,54_g_natural_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/54_g_natural_minor_quarter_note_scale_Pattern_14.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+55,15,G Natural Minor Quarter Note Scale Pattern 15,55_g_natural_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/55_g_natural_minor_quarter_note_scale_Pattern_15.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+56,16,G Natural Minor Whole Note Long Tone Fermata Pattern 16,56_g_natural_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/56_g_natural_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+57,17,G Natural Minor Quarter Note Scale Pattern 17,57_g_natural_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/57_g_natural_minor_quarter_note_scale_Pattern_17.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+58,18,G Natural Minor Quarter Note Scale Pattern 18,58_g_natural_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/58_g_natural_minor_quarter_note_scale_Pattern_18.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+59,19,G Natural Minor Whole Note Long Tone Fermata Pattern 19,59_g_natural_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/59_g_natural_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+60,20,G Natural Minor Quarter Note Scale Pattern 20,60_g_natural_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/60_g_natural_minor_quarter_note_scale_Pattern_20.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+61,21,G Natural Minor Quarter Note Arpeggio Pattern 21,61_g_natural_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/61_g_natural_minor_quarter_note_arpeggio_Pattern_21.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+62,22,G Natural Minor Quarter Note Scale Pattern 22,62_g_natural_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/62_g_natural_minor_quarter_note_scale_Pattern_22.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+63,23,G Natural Minor Quarter Note Arpeggio Pattern 23,63_g_natural_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/63_g_natural_minor_quarter_note_arpeggio_Pattern_23.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+64,24,G Natural Minor Quarter Note Arpeggio Pattern 24,64_g_natural_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/64_g_natural_minor_quarter_note_arpeggio_Pattern_24.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+65,25,G Natural Minor Whole Note Long Tone Fermata Pattern 25,65_g_natural_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/65_g_natural_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,g,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+66,26,G Natural Minor Dotted Half Note Long Tone Pattern 26,66_g_natural_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/66_g_natural_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,g,natural_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+67,27,G Natural Minor Quarter Note Rhythm Pattern 27,67_g_natural_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/67_g_natural_minor_quarter_note_rhythm_Pattern_27.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+68,28,G Natural Minor Quarter Note Rhythm Pattern 28,68_g_natural_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/68_g_natural_minor_quarter_note_rhythm_Pattern_28.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+69,29,G Natural Minor Quarter Note Rhythm Pattern 29,69_g_natural_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/69_g_natural_minor_quarter_note_rhythm_Pattern_29.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+70,30,G Natural Minor Half Note Scale Pattern 30,70_g_natural_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/70_g_natural_minor_half_note_scale_Pattern_30.cropped.png,g,natural_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+71,31,G Natural Minor Scale Pattern 31,71_g_natural_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/71_g_natural_minor_scale_Pattern_31.cropped.png,g,natural_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+72,32,G Natural Minor Quarter Note Rhythm Pattern 32,72_g_natural_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/72_g_natural_minor_quarter_note_rhythm_Pattern_32.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+73,33,G Natural Minor Quarter Note Rhythm Pattern 33,73_g_natural_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/73_g_natural_minor_quarter_note_rhythm_Pattern_33.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+74,34,G Natural Minor Quarter Note Rhythm Pattern 34,74_g_natural_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/74_g_natural_minor_quarter_note_rhythm_Pattern_34.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+75,35,G Natural Minor Quarter Note Scale Pattern 35,75_g_natural_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/75_g_natural_minor_quarter_note_scale_Pattern_35.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+76,36,G Natural Minor Quarter Note Scale Pattern 36,76_g_natural_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/76_g_natural_minor_quarter_note_scale_Pattern_36.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+77,37,G Natural Minor Quarter Note Scale Pattern 37,77_g_natural_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/77_g_natural_minor_quarter_note_scale_Pattern_37.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+78,38,G Natural Minor Quarter Note Scale Pattern 38,78_g_natural_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/78_g_natural_minor_quarter_note_scale_Pattern_38.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+79,39,G Natural Minor Quarter Note Scale Pattern 39,79_g_natural_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/79_g_natural_minor_quarter_note_scale_Pattern_39.cropped.png,g,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+80,0,G Harmonic Minor Whole Note Long Tone Fermata Pattern 0,80_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/80_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+81,1,G Harmonic Minor Whole Note Long Tone Fermata Pattern 1,81_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/81_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+82,2,G Harmonic Minor Quarter-Note Rhythm Pattern 2,82_g_harmonic_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/82_g_harmonic_minor_quarter-note_rhythm_Pattern_2.cropped.png,g,harmonic_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+83,3,G Harmonic Minor Quarter-Note Rhythm Pattern 3,83_g_harmonic_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/83_g_harmonic_minor_quarter-note_rhythm_Pattern_3.cropped.png,g,harmonic_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+84,4,G Harmonic Minor Quarter-Note Rhythm Pattern 4,84_g_harmonic_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/84_g_harmonic_minor_quarter-note_rhythm_Pattern_4.cropped.png,g,harmonic_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+85,5,G Harmonic Minor Quarter-Note Rhythm Pattern 5,85_g_harmonic_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/85_g_harmonic_minor_quarter-note_rhythm_Pattern_5.cropped.png,g,harmonic_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+86,6,G Harmonic Minor Whole Note Long Tone Pattern 6,86_g_harmonic_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/86_g_harmonic_minor_whole_note_long_tone_Pattern_6.cropped.png,g,harmonic_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+87,7,G Harmonic Minor Quarter-Note Interval Pattern 7,87_g_harmonic_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/87_g_harmonic_minor_quarter-note_interval_Pattern_7.cropped.png,g,harmonic_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+88,8,G Harmonic Minor Whole Note Long Tone Fermata Pattern 8,88_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/88_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+89,9,G Harmonic Minor Quarter Note Scale Pattern 9,89_g_harmonic_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/89_g_harmonic_minor_quarter_note_scale_Pattern_9.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+90,10,G Harmonic Minor Whole Note Long Tone Fermata Pattern 10,90_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/90_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+91,11,G Harmonic Minor Quarter Note Scale Pattern 11,91_g_harmonic_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/91_g_harmonic_minor_quarter_note_scale_Pattern_11.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+92,12,G Harmonic Minor Quarter Note Arpeggio Pattern 12,92_g_harmonic_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/92_g_harmonic_minor_quarter_note_arpeggio_Pattern_12.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+93,13,G Harmonic Minor Whole Note Long Tone Fermata Pattern 13,93_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/93_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+94,14,G Harmonic Minor Quarter Note Scale Pattern 14,94_g_harmonic_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/94_g_harmonic_minor_quarter_note_scale_Pattern_14.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+95,15,G Harmonic Minor Quarter Note Scale Pattern 15,95_g_harmonic_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/95_g_harmonic_minor_quarter_note_scale_Pattern_15.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+96,16,G Harmonic Minor Whole Note Long Tone Fermata Pattern 16,96_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/96_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+97,17,G Harmonic Minor Quarter Note Scale Pattern 17,97_g_harmonic_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/97_g_harmonic_minor_quarter_note_scale_Pattern_17.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+98,18,G Harmonic Minor Quarter Note Scale Pattern 18,98_g_harmonic_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/98_g_harmonic_minor_quarter_note_scale_Pattern_18.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+99,19,G Harmonic Minor Whole Note Long Tone Fermata Pattern 19,99_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/99_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+100,20,G Harmonic Minor Quarter Note Scale Pattern 20,100_g_harmonic_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/100_g_harmonic_minor_quarter_note_scale_Pattern_20.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+101,21,G Harmonic Minor Quarter Note Arpeggio Pattern 21,101_g_harmonic_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/101_g_harmonic_minor_quarter_note_arpeggio_Pattern_21.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+102,22,G Harmonic Minor Quarter Note Scale Pattern 22,102_g_harmonic_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/102_g_harmonic_minor_quarter_note_scale_Pattern_22.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+103,23,G Harmonic Minor Quarter Note Arpeggio Pattern 23,103_g_harmonic_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/103_g_harmonic_minor_quarter_note_arpeggio_Pattern_23.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+104,24,G Harmonic Minor Quarter Note Arpeggio Pattern 24,104_g_harmonic_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/104_g_harmonic_minor_quarter_note_arpeggio_Pattern_24.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+105,25,G Harmonic Minor Whole Note Long Tone Fermata Pattern 25,105_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/105_g_harmonic_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,g,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+106,26,G Harmonic Minor Dotted Half Note Long Tone Pattern 26,106_g_harmonic_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/106_g_harmonic_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,g,harmonic_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+107,27,G Harmonic Minor Quarter Note Rhythm Pattern 27,107_g_harmonic_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/107_g_harmonic_minor_quarter_note_rhythm_Pattern_27.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+108,28,G Harmonic Minor Quarter Note Rhythm Pattern 28,108_g_harmonic_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/108_g_harmonic_minor_quarter_note_rhythm_Pattern_28.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+109,29,G Harmonic Minor Quarter Note Rhythm Pattern 29,109_g_harmonic_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/109_g_harmonic_minor_quarter_note_rhythm_Pattern_29.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+110,30,G Harmonic Minor Half Note Scale Pattern 30,110_g_harmonic_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/110_g_harmonic_minor_half_note_scale_Pattern_30.cropped.png,g,harmonic_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+111,31,G Harmonic Minor Scale Pattern 31,111_g_harmonic_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/111_g_harmonic_minor_scale_Pattern_31.cropped.png,g,harmonic_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+112,32,G Harmonic Minor Quarter Note Rhythm Pattern 32,112_g_harmonic_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/112_g_harmonic_minor_quarter_note_rhythm_Pattern_32.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+113,33,G Harmonic Minor Quarter Note Rhythm Pattern 33,113_g_harmonic_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/113_g_harmonic_minor_quarter_note_rhythm_Pattern_33.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+114,34,G Harmonic Minor Quarter Note Rhythm Pattern 34,114_g_harmonic_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/114_g_harmonic_minor_quarter_note_rhythm_Pattern_34.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+115,35,G Harmonic Minor Quarter Note Scale Pattern 35,115_g_harmonic_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/115_g_harmonic_minor_quarter_note_scale_Pattern_35.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+116,36,G Harmonic Minor Quarter Note Scale Pattern 36,116_g_harmonic_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/116_g_harmonic_minor_quarter_note_scale_Pattern_36.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+117,37,G Harmonic Minor Quarter Note Scale Pattern 37,117_g_harmonic_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/117_g_harmonic_minor_quarter_note_scale_Pattern_37.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+118,38,G Harmonic Minor Quarter Note Scale Pattern 38,118_g_harmonic_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/118_g_harmonic_minor_quarter_note_scale_Pattern_38.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+119,39,G Harmonic Minor Quarter Note Scale Pattern 39,119_g_harmonic_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/119_g_harmonic_minor_quarter_note_scale_Pattern_39.cropped.png,g,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+120,0,G Jazz Minor Whole Note Long Tone Fermata Pattern 0,120_g_jazz_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/120_g_jazz_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+121,1,G Jazz Minor Whole Note Long Tone Fermata Pattern 1,121_g_jazz_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/121_g_jazz_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+122,2,G Jazz Minor Quarter-Note Rhythm Pattern 2,122_g_jazz_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/122_g_jazz_minor_quarter-note_rhythm_Pattern_2.cropped.png,g,jazz_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+123,3,G Jazz Minor Quarter-Note Rhythm Pattern 3,123_g_jazz_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/123_g_jazz_minor_quarter-note_rhythm_Pattern_3.cropped.png,g,jazz_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+124,4,G Jazz Minor Quarter-Note Rhythm Pattern 4,124_g_jazz_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/124_g_jazz_minor_quarter-note_rhythm_Pattern_4.cropped.png,g,jazz_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+125,5,G Jazz Minor Quarter-Note Rhythm Pattern 5,125_g_jazz_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/125_g_jazz_minor_quarter-note_rhythm_Pattern_5.cropped.png,g,jazz_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+126,6,G Jazz Minor Whole Note Long Tone Pattern 6,126_g_jazz_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/126_g_jazz_minor_whole_note_long_tone_Pattern_6.cropped.png,g,jazz_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+127,7,G Jazz Minor Quarter-Note Interval Pattern 7,127_g_jazz_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/127_g_jazz_minor_quarter-note_interval_Pattern_7.cropped.png,g,jazz_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+128,8,G Jazz Minor Whole Note Long Tone Fermata Pattern 8,128_g_jazz_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/128_g_jazz_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+129,9,G Jazz Minor Quarter Note Scale Pattern 9,129_g_jazz_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/129_g_jazz_minor_quarter_note_scale_Pattern_9.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+130,10,G Jazz Minor Whole Note Long Tone Fermata Pattern 10,130_g_jazz_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/130_g_jazz_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+131,11,G Jazz Minor Quarter Note Scale Pattern 11,131_g_jazz_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/131_g_jazz_minor_quarter_note_scale_Pattern_11.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+132,12,G Jazz Minor Quarter Note Arpeggio Pattern 12,132_g_jazz_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/132_g_jazz_minor_quarter_note_arpeggio_Pattern_12.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+133,13,G Jazz Minor Whole Note Long Tone Fermata Pattern 13,133_g_jazz_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/133_g_jazz_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+134,14,G Jazz Minor Quarter Note Scale Pattern 14,134_g_jazz_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/134_g_jazz_minor_quarter_note_scale_Pattern_14.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+135,15,G Jazz Minor Quarter Note Scale Pattern 15,135_g_jazz_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/135_g_jazz_minor_quarter_note_scale_Pattern_15.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+136,16,G Jazz Minor Whole Note Long Tone Fermata Pattern 16,136_g_jazz_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/136_g_jazz_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+137,17,G Jazz Minor Quarter Note Scale Pattern 17,137_g_jazz_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/137_g_jazz_minor_quarter_note_scale_Pattern_17.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+138,18,G Jazz Minor Quarter Note Scale Pattern 18,138_g_jazz_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/138_g_jazz_minor_quarter_note_scale_Pattern_18.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+139,19,G Jazz Minor Whole Note Long Tone Fermata Pattern 19,139_g_jazz_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/139_g_jazz_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+140,20,G Jazz Minor Quarter Note Scale Pattern 20,140_g_jazz_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/140_g_jazz_minor_quarter_note_scale_Pattern_20.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+141,21,G Jazz Minor Quarter Note Arpeggio Pattern 21,141_g_jazz_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/141_g_jazz_minor_quarter_note_arpeggio_Pattern_21.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+142,22,G Jazz Minor Quarter Note Scale Pattern 22,142_g_jazz_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/142_g_jazz_minor_quarter_note_scale_Pattern_22.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+143,23,G Jazz Minor Quarter Note Arpeggio Pattern 23,143_g_jazz_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/143_g_jazz_minor_quarter_note_arpeggio_Pattern_23.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+144,24,G Jazz Minor Quarter Note Arpeggio Pattern 24,144_g_jazz_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/144_g_jazz_minor_quarter_note_arpeggio_Pattern_24.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+145,25,G Jazz Minor Whole Note Long Tone Fermata Pattern 25,145_g_jazz_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/145_g_jazz_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,g,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+146,26,G Jazz Minor Dotted Half Note Long Tone Pattern 26,146_g_jazz_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/146_g_jazz_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,g,jazz_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+147,27,G Jazz Minor Quarter Note Rhythm Pattern 27,147_g_jazz_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/147_g_jazz_minor_quarter_note_rhythm_Pattern_27.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+148,28,G Jazz Minor Quarter Note Rhythm Pattern 28,148_g_jazz_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/148_g_jazz_minor_quarter_note_rhythm_Pattern_28.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+149,29,G Jazz Minor Quarter Note Rhythm Pattern 29,149_g_jazz_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/149_g_jazz_minor_quarter_note_rhythm_Pattern_29.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+150,30,G Jazz Minor Half Note Scale Pattern 30,150_g_jazz_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/150_g_jazz_minor_half_note_scale_Pattern_30.cropped.png,g,jazz_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+151,31,G Jazz Minor Scale Pattern 31,151_g_jazz_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/151_g_jazz_minor_scale_Pattern_31.cropped.png,g,jazz_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+152,32,G Jazz Minor Quarter Note Rhythm Pattern 32,152_g_jazz_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/152_g_jazz_minor_quarter_note_rhythm_Pattern_32.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+153,33,G Jazz Minor Quarter Note Rhythm Pattern 33,153_g_jazz_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/153_g_jazz_minor_quarter_note_rhythm_Pattern_33.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+154,34,G Jazz Minor Quarter Note Rhythm Pattern 34,154_g_jazz_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/154_g_jazz_minor_quarter_note_rhythm_Pattern_34.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+155,35,G Jazz Minor Quarter Note Scale Pattern 35,155_g_jazz_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/155_g_jazz_minor_quarter_note_scale_Pattern_35.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+156,36,G Jazz Minor Quarter Note Scale Pattern 36,156_g_jazz_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/156_g_jazz_minor_quarter_note_scale_Pattern_36.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+157,37,G Jazz Minor Quarter Note Scale Pattern 37,157_g_jazz_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/157_g_jazz_minor_quarter_note_scale_Pattern_37.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+158,38,G Jazz Minor Quarter Note Scale Pattern 38,158_g_jazz_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/158_g_jazz_minor_quarter_note_scale_Pattern_38.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+159,39,G Jazz Minor Quarter Note Scale Pattern 39,159_g_jazz_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/159_g_jazz_minor_quarter_note_scale_Pattern_39.cropped.png,g,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+160,0,C Major Whole Note Long Tone Fermata Pattern 0,160_c_major_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/160_c_major_whole_note_long_tone_fermata_Pattern_0.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+161,1,C Major Whole Note Long Tone Fermata Pattern 1,161_c_major_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/161_c_major_whole_note_long_tone_fermata_Pattern_1.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+162,2,C Major Quarter-Note Rhythm Pattern 2,162_c_major_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/162_c_major_quarter-note_rhythm_Pattern_2.cropped.png,c,major,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+163,3,C Major Quarter-Note Rhythm Pattern 3,163_c_major_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/163_c_major_quarter-note_rhythm_Pattern_3.cropped.png,c,major,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+164,4,C Major Quarter-Note Rhythm Pattern 4,164_c_major_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/164_c_major_quarter-note_rhythm_Pattern_4.cropped.png,c,major,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+165,5,C Major Quarter-Note Rhythm Pattern 5,165_c_major_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/165_c_major_quarter-note_rhythm_Pattern_5.cropped.png,c,major,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+166,6,C Major Whole Note Long Tone Pattern 6,166_c_major_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/166_c_major_whole_note_long_tone_Pattern_6.cropped.png,c,major,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+167,7,C Major Quarter-Note Interval Pattern 7,167_c_major_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/167_c_major_quarter-note_interval_Pattern_7.cropped.png,c,major,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+168,8,C Major Whole Note Long Tone Fermata Pattern 8,168_c_major_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/168_c_major_whole_note_long_tone_fermata_Pattern_8.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+169,9,C Major Quarter Note Scale Pattern 9,169_c_major_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/169_c_major_quarter_note_scale_Pattern_9.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+170,10,C Major Whole Note Long Tone Fermata Pattern 10,170_c_major_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/170_c_major_whole_note_long_tone_fermata_Pattern_10.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+171,11,C Major Quarter Note Scale Pattern 11,171_c_major_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/171_c_major_quarter_note_scale_Pattern_11.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+172,12,C Major Quarter Note Arpeggio Pattern 12,172_c_major_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/172_c_major_quarter_note_arpeggio_Pattern_12.cropped.png,c,major,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+173,13,C Major Whole Note Long Tone Fermata Pattern 13,173_c_major_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/173_c_major_whole_note_long_tone_fermata_Pattern_13.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+174,14,C Major Quarter Note Scale Pattern 14,174_c_major_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/174_c_major_quarter_note_scale_Pattern_14.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+175,15,C Major Quarter Note Scale Pattern 15,175_c_major_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/175_c_major_quarter_note_scale_Pattern_15.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+176,16,C Major Whole Note Long Tone Fermata Pattern 16,176_c_major_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/176_c_major_whole_note_long_tone_fermata_Pattern_16.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+177,17,C Major Quarter Note Scale Pattern 17,177_c_major_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/177_c_major_quarter_note_scale_Pattern_17.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+178,18,C Major Quarter Note Scale Pattern 18,178_c_major_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/178_c_major_quarter_note_scale_Pattern_18.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+179,19,C Major Whole Note Long Tone Fermata Pattern 19,179_c_major_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/179_c_major_whole_note_long_tone_fermata_Pattern_19.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+180,20,C Major Quarter Note Scale Pattern 20,180_c_major_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/180_c_major_quarter_note_scale_Pattern_20.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+181,21,C Major Quarter Note Arpeggio Pattern 21,181_c_major_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/181_c_major_quarter_note_arpeggio_Pattern_21.cropped.png,c,major,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+182,22,C Major Quarter Note Scale Pattern 22,182_c_major_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/182_c_major_quarter_note_scale_Pattern_22.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+183,23,C Major Quarter Note Arpeggio Pattern 23,183_c_major_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/183_c_major_quarter_note_arpeggio_Pattern_23.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+184,24,C Major Quarter Note Arpeggio Pattern 24,184_c_major_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/184_c_major_quarter_note_arpeggio_Pattern_24.cropped.png,c,major,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+185,25,C Major Whole Note Long Tone Fermata Pattern 25,185_c_major_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/185_c_major_whole_note_long_tone_fermata_Pattern_25.cropped.png,c,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+186,26,C Major Dotted Half Note Long Tone Pattern 26,186_c_major_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/186_c_major_dotted_half_note_long_tone_Pattern_26.cropped.png,c,major,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+187,27,C Major Quarter Note Rhythm Pattern 27,187_c_major_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/187_c_major_quarter_note_rhythm_Pattern_27.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+188,28,C Major Quarter Note Rhythm Pattern 28,188_c_major_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/188_c_major_quarter_note_rhythm_Pattern_28.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+189,29,C Major Quarter Note Rhythm Pattern 29,189_c_major_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/189_c_major_quarter_note_rhythm_Pattern_29.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+190,30,C Major Half Note Scale Pattern 30,190_c_major_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/190_c_major_half_note_scale_Pattern_30.cropped.png,c,major,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+191,31,C Major Scale Pattern 31,191_c_major_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/191_c_major_scale_Pattern_31.cropped.png,c,major,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+192,32,C Major Quarter Note Rhythm Pattern 32,192_c_major_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/192_c_major_quarter_note_rhythm_Pattern_32.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+193,33,C Major Quarter Note Rhythm Pattern 33,193_c_major_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/193_c_major_quarter_note_rhythm_Pattern_33.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+194,34,C Major Quarter Note Rhythm Pattern 34,194_c_major_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/194_c_major_quarter_note_rhythm_Pattern_34.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+195,35,C Major Quarter Note Scale Pattern 35,195_c_major_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/195_c_major_quarter_note_scale_Pattern_35.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+196,36,C Major Quarter Note Scale Pattern 36,196_c_major_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/196_c_major_quarter_note_scale_Pattern_36.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+197,37,C Major Quarter Note Scale Pattern 37,197_c_major_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/197_c_major_quarter_note_scale_Pattern_37.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+198,38,C Major Quarter Note Scale Pattern 38,198_c_major_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/198_c_major_quarter_note_scale_Pattern_38.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+199,39,C Major Quarter Note Scale Pattern 39,199_c_major_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/199_c_major_quarter_note_scale_Pattern_39.cropped.png,c,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+200,0,C Natural Minor Whole Note Long Tone Fermata Pattern 0,200_c_natural_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/200_c_natural_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+201,1,C Natural Minor Whole Note Long Tone Fermata Pattern 1,201_c_natural_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/201_c_natural_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+202,2,C Natural Minor Quarter-Note Rhythm Pattern 2,202_c_natural_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/202_c_natural_minor_quarter-note_rhythm_Pattern_2.cropped.png,c,natural_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+203,3,C Natural Minor Quarter-Note Rhythm Pattern 3,203_c_natural_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/203_c_natural_minor_quarter-note_rhythm_Pattern_3.cropped.png,c,natural_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+204,4,C Natural Minor Quarter-Note Rhythm Pattern 4,204_c_natural_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/204_c_natural_minor_quarter-note_rhythm_Pattern_4.cropped.png,c,natural_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+205,5,C Natural Minor Quarter-Note Rhythm Pattern 5,205_c_natural_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/205_c_natural_minor_quarter-note_rhythm_Pattern_5.cropped.png,c,natural_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+206,6,C Natural Minor Whole Note Long Tone Pattern 6,206_c_natural_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/206_c_natural_minor_whole_note_long_tone_Pattern_6.cropped.png,c,natural_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+207,7,C Natural Minor Quarter-Note Interval Pattern 7,207_c_natural_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/207_c_natural_minor_quarter-note_interval_Pattern_7.cropped.png,c,natural_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+208,8,C Natural Minor Whole Note Long Tone Fermata Pattern 8,208_c_natural_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/208_c_natural_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+209,9,C Natural Minor Quarter Note Scale Pattern 9,209_c_natural_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/209_c_natural_minor_quarter_note_scale_Pattern_9.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+210,10,C Natural Minor Whole Note Long Tone Fermata Pattern 10,210_c_natural_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/210_c_natural_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+211,11,C Natural Minor Quarter Note Scale Pattern 11,211_c_natural_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/211_c_natural_minor_quarter_note_scale_Pattern_11.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+212,12,C Natural Minor Quarter Note Arpeggio Pattern 12,212_c_natural_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/212_c_natural_minor_quarter_note_arpeggio_Pattern_12.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+213,13,C Natural Minor Whole Note Long Tone Fermata Pattern 13,213_c_natural_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/213_c_natural_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+214,14,C Natural Minor Quarter Note Scale Pattern 14,214_c_natural_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/214_c_natural_minor_quarter_note_scale_Pattern_14.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+215,15,C Natural Minor Quarter Note Scale Pattern 15,215_c_natural_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/215_c_natural_minor_quarter_note_scale_Pattern_15.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+216,16,C Natural Minor Whole Note Long Tone Fermata Pattern 16,216_c_natural_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/216_c_natural_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+217,17,C Natural Minor Quarter Note Scale Pattern 17,217_c_natural_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/217_c_natural_minor_quarter_note_scale_Pattern_17.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+218,18,C Natural Minor Quarter Note Scale Pattern 18,218_c_natural_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/218_c_natural_minor_quarter_note_scale_Pattern_18.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+219,19,C Natural Minor Whole Note Long Tone Fermata Pattern 19,219_c_natural_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/219_c_natural_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+220,20,C Natural Minor Quarter Note Scale Pattern 20,220_c_natural_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/220_c_natural_minor_quarter_note_scale_Pattern_20.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+221,21,C Natural Minor Quarter Note Arpeggio Pattern 21,221_c_natural_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/221_c_natural_minor_quarter_note_arpeggio_Pattern_21.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+222,22,C Natural Minor Quarter Note Scale Pattern 22,222_c_natural_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/222_c_natural_minor_quarter_note_scale_Pattern_22.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+223,23,C Natural Minor Quarter Note Arpeggio Pattern 23,223_c_natural_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/223_c_natural_minor_quarter_note_arpeggio_Pattern_23.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+224,24,C Natural Minor Quarter Note Arpeggio Pattern 24,224_c_natural_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/224_c_natural_minor_quarter_note_arpeggio_Pattern_24.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+225,25,C Natural Minor Whole Note Long Tone Fermata Pattern 25,225_c_natural_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/225_c_natural_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,c,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+226,26,C Natural Minor Dotted Half Note Long Tone Pattern 26,226_c_natural_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/226_c_natural_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,c,natural_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+227,27,C Natural Minor Quarter Note Rhythm Pattern 27,227_c_natural_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/227_c_natural_minor_quarter_note_rhythm_Pattern_27.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+228,28,C Natural Minor Quarter Note Rhythm Pattern 28,228_c_natural_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/228_c_natural_minor_quarter_note_rhythm_Pattern_28.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+229,29,C Natural Minor Quarter Note Rhythm Pattern 29,229_c_natural_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/229_c_natural_minor_quarter_note_rhythm_Pattern_29.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+230,30,C Natural Minor Half Note Scale Pattern 30,230_c_natural_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/230_c_natural_minor_half_note_scale_Pattern_30.cropped.png,c,natural_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+231,31,C Natural Minor Scale Pattern 31,231_c_natural_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/231_c_natural_minor_scale_Pattern_31.cropped.png,c,natural_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+232,32,C Natural Minor Quarter Note Rhythm Pattern 32,232_c_natural_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/232_c_natural_minor_quarter_note_rhythm_Pattern_32.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+233,33,C Natural Minor Quarter Note Rhythm Pattern 33,233_c_natural_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/233_c_natural_minor_quarter_note_rhythm_Pattern_33.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+234,34,C Natural Minor Quarter Note Rhythm Pattern 34,234_c_natural_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/234_c_natural_minor_quarter_note_rhythm_Pattern_34.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+235,35,C Natural Minor Quarter Note Scale Pattern 35,235_c_natural_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/235_c_natural_minor_quarter_note_scale_Pattern_35.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+236,36,C Natural Minor Quarter Note Scale Pattern 36,236_c_natural_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/236_c_natural_minor_quarter_note_scale_Pattern_36.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+237,37,C Natural Minor Quarter Note Scale Pattern 37,237_c_natural_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/237_c_natural_minor_quarter_note_scale_Pattern_37.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+238,38,C Natural Minor Quarter Note Scale Pattern 38,238_c_natural_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/238_c_natural_minor_quarter_note_scale_Pattern_38.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+239,39,C Natural Minor Quarter Note Scale Pattern 39,239_c_natural_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/239_c_natural_minor_quarter_note_scale_Pattern_39.cropped.png,c,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+240,0,C Harmonic Minor Whole Note Long Tone Fermata Pattern 0,240_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/240_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+241,1,C Harmonic Minor Whole Note Long Tone Fermata Pattern 1,241_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/241_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+242,2,C Harmonic Minor Quarter-Note Rhythm Pattern 2,242_c_harmonic_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/242_c_harmonic_minor_quarter-note_rhythm_Pattern_2.cropped.png,c,harmonic_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+243,3,C Harmonic Minor Quarter-Note Rhythm Pattern 3,243_c_harmonic_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/243_c_harmonic_minor_quarter-note_rhythm_Pattern_3.cropped.png,c,harmonic_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+244,4,C Harmonic Minor Quarter-Note Rhythm Pattern 4,244_c_harmonic_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/244_c_harmonic_minor_quarter-note_rhythm_Pattern_4.cropped.png,c,harmonic_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+245,5,C Harmonic Minor Quarter-Note Rhythm Pattern 5,245_c_harmonic_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/245_c_harmonic_minor_quarter-note_rhythm_Pattern_5.cropped.png,c,harmonic_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+246,6,C Harmonic Minor Whole Note Long Tone Pattern 6,246_c_harmonic_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/246_c_harmonic_minor_whole_note_long_tone_Pattern_6.cropped.png,c,harmonic_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+247,7,C Harmonic Minor Quarter-Note Interval Pattern 7,247_c_harmonic_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/247_c_harmonic_minor_quarter-note_interval_Pattern_7.cropped.png,c,harmonic_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+248,8,C Harmonic Minor Whole Note Long Tone Fermata Pattern 8,248_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/248_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+249,9,C Harmonic Minor Quarter Note Scale Pattern 9,249_c_harmonic_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/249_c_harmonic_minor_quarter_note_scale_Pattern_9.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+250,10,C Harmonic Minor Whole Note Long Tone Fermata Pattern 10,250_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/250_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+251,11,C Harmonic Minor Quarter Note Scale Pattern 11,251_c_harmonic_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/251_c_harmonic_minor_quarter_note_scale_Pattern_11.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+252,12,C Harmonic Minor Quarter Note Arpeggio Pattern 12,252_c_harmonic_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/252_c_harmonic_minor_quarter_note_arpeggio_Pattern_12.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+253,13,C Harmonic Minor Whole Note Long Tone Fermata Pattern 13,253_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/253_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+254,14,C Harmonic Minor Quarter Note Scale Pattern 14,254_c_harmonic_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/254_c_harmonic_minor_quarter_note_scale_Pattern_14.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+255,15,C Harmonic Minor Quarter Note Scale Pattern 15,255_c_harmonic_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/255_c_harmonic_minor_quarter_note_scale_Pattern_15.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+256,16,C Harmonic Minor Whole Note Long Tone Fermata Pattern 16,256_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/256_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+257,17,C Harmonic Minor Quarter Note Scale Pattern 17,257_c_harmonic_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/257_c_harmonic_minor_quarter_note_scale_Pattern_17.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+258,18,C Harmonic Minor Quarter Note Scale Pattern 18,258_c_harmonic_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/258_c_harmonic_minor_quarter_note_scale_Pattern_18.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+259,19,C Harmonic Minor Whole Note Long Tone Fermata Pattern 19,259_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/259_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+260,20,C Harmonic Minor Quarter Note Scale Pattern 20,260_c_harmonic_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/260_c_harmonic_minor_quarter_note_scale_Pattern_20.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+261,21,C Harmonic Minor Quarter Note Arpeggio Pattern 21,261_c_harmonic_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/261_c_harmonic_minor_quarter_note_arpeggio_Pattern_21.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+262,22,C Harmonic Minor Quarter Note Scale Pattern 22,262_c_harmonic_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/262_c_harmonic_minor_quarter_note_scale_Pattern_22.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+263,23,C Harmonic Minor Quarter Note Arpeggio Pattern 23,263_c_harmonic_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/263_c_harmonic_minor_quarter_note_arpeggio_Pattern_23.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+264,24,C Harmonic Minor Quarter Note Arpeggio Pattern 24,264_c_harmonic_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/264_c_harmonic_minor_quarter_note_arpeggio_Pattern_24.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+265,25,C Harmonic Minor Whole Note Long Tone Fermata Pattern 25,265_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/265_c_harmonic_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,c,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+266,26,C Harmonic Minor Dotted Half Note Long Tone Pattern 26,266_c_harmonic_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/266_c_harmonic_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,c,harmonic_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+267,27,C Harmonic Minor Quarter Note Rhythm Pattern 27,267_c_harmonic_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/267_c_harmonic_minor_quarter_note_rhythm_Pattern_27.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+268,28,C Harmonic Minor Quarter Note Rhythm Pattern 28,268_c_harmonic_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/268_c_harmonic_minor_quarter_note_rhythm_Pattern_28.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+269,29,C Harmonic Minor Quarter Note Rhythm Pattern 29,269_c_harmonic_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/269_c_harmonic_minor_quarter_note_rhythm_Pattern_29.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+270,30,C Harmonic Minor Half Note Scale Pattern 30,270_c_harmonic_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/270_c_harmonic_minor_half_note_scale_Pattern_30.cropped.png,c,harmonic_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+271,31,C Harmonic Minor Scale Pattern 31,271_c_harmonic_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/271_c_harmonic_minor_scale_Pattern_31.cropped.png,c,harmonic_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+272,32,C Harmonic Minor Quarter Note Rhythm Pattern 32,272_c_harmonic_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/272_c_harmonic_minor_quarter_note_rhythm_Pattern_32.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+273,33,C Harmonic Minor Quarter Note Rhythm Pattern 33,273_c_harmonic_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/273_c_harmonic_minor_quarter_note_rhythm_Pattern_33.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+274,34,C Harmonic Minor Quarter Note Rhythm Pattern 34,274_c_harmonic_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/274_c_harmonic_minor_quarter_note_rhythm_Pattern_34.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+275,35,C Harmonic Minor Quarter Note Scale Pattern 35,275_c_harmonic_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/275_c_harmonic_minor_quarter_note_scale_Pattern_35.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+276,36,C Harmonic Minor Quarter Note Scale Pattern 36,276_c_harmonic_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/276_c_harmonic_minor_quarter_note_scale_Pattern_36.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+277,37,C Harmonic Minor Quarter Note Scale Pattern 37,277_c_harmonic_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/277_c_harmonic_minor_quarter_note_scale_Pattern_37.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+278,38,C Harmonic Minor Quarter Note Scale Pattern 38,278_c_harmonic_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/278_c_harmonic_minor_quarter_note_scale_Pattern_38.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+279,39,C Harmonic Minor Quarter Note Scale Pattern 39,279_c_harmonic_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/279_c_harmonic_minor_quarter_note_scale_Pattern_39.cropped.png,c,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+280,0,C Jazz Minor Whole Note Long Tone Fermata Pattern 0,280_c_jazz_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/280_c_jazz_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+281,1,C Jazz Minor Whole Note Long Tone Fermata Pattern 1,281_c_jazz_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/281_c_jazz_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+282,2,C Jazz Minor Quarter-Note Rhythm Pattern 2,282_c_jazz_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/282_c_jazz_minor_quarter-note_rhythm_Pattern_2.cropped.png,c,jazz_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+283,3,C Jazz Minor Quarter-Note Rhythm Pattern 3,283_c_jazz_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/283_c_jazz_minor_quarter-note_rhythm_Pattern_3.cropped.png,c,jazz_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+284,4,C Jazz Minor Quarter-Note Rhythm Pattern 4,284_c_jazz_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/284_c_jazz_minor_quarter-note_rhythm_Pattern_4.cropped.png,c,jazz_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+285,5,C Jazz Minor Quarter-Note Rhythm Pattern 5,285_c_jazz_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/285_c_jazz_minor_quarter-note_rhythm_Pattern_5.cropped.png,c,jazz_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+286,6,C Jazz Minor Whole Note Long Tone Pattern 6,286_c_jazz_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/286_c_jazz_minor_whole_note_long_tone_Pattern_6.cropped.png,c,jazz_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+287,7,C Jazz Minor Quarter-Note Interval Pattern 7,287_c_jazz_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/287_c_jazz_minor_quarter-note_interval_Pattern_7.cropped.png,c,jazz_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+288,8,C Jazz Minor Whole Note Long Tone Fermata Pattern 8,288_c_jazz_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/288_c_jazz_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+289,9,C Jazz Minor Quarter Note Scale Pattern 9,289_c_jazz_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/289_c_jazz_minor_quarter_note_scale_Pattern_9.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+290,10,C Jazz Minor Whole Note Long Tone Fermata Pattern 10,290_c_jazz_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/290_c_jazz_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+291,11,C Jazz Minor Quarter Note Scale Pattern 11,291_c_jazz_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/291_c_jazz_minor_quarter_note_scale_Pattern_11.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+292,12,C Jazz Minor Quarter Note Arpeggio Pattern 12,292_c_jazz_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/292_c_jazz_minor_quarter_note_arpeggio_Pattern_12.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+293,13,C Jazz Minor Whole Note Long Tone Fermata Pattern 13,293_c_jazz_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/293_c_jazz_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+294,14,C Jazz Minor Quarter Note Scale Pattern 14,294_c_jazz_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/294_c_jazz_minor_quarter_note_scale_Pattern_14.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+295,15,C Jazz Minor Quarter Note Scale Pattern 15,295_c_jazz_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/295_c_jazz_minor_quarter_note_scale_Pattern_15.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+296,16,C Jazz Minor Whole Note Long Tone Fermata Pattern 16,296_c_jazz_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/296_c_jazz_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+297,17,C Jazz Minor Quarter Note Scale Pattern 17,297_c_jazz_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/297_c_jazz_minor_quarter_note_scale_Pattern_17.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+298,18,C Jazz Minor Quarter Note Scale Pattern 18,298_c_jazz_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/298_c_jazz_minor_quarter_note_scale_Pattern_18.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+299,19,C Jazz Minor Whole Note Long Tone Fermata Pattern 19,299_c_jazz_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/299_c_jazz_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+300,20,C Jazz Minor Quarter Note Scale Pattern 20,300_c_jazz_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/300_c_jazz_minor_quarter_note_scale_Pattern_20.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+301,21,C Jazz Minor Quarter Note Arpeggio Pattern 21,301_c_jazz_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/301_c_jazz_minor_quarter_note_arpeggio_Pattern_21.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+302,22,C Jazz Minor Quarter Note Scale Pattern 22,302_c_jazz_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/302_c_jazz_minor_quarter_note_scale_Pattern_22.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+303,23,C Jazz Minor Quarter Note Arpeggio Pattern 23,303_c_jazz_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/303_c_jazz_minor_quarter_note_arpeggio_Pattern_23.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+304,24,C Jazz Minor Quarter Note Arpeggio Pattern 24,304_c_jazz_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/304_c_jazz_minor_quarter_note_arpeggio_Pattern_24.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+305,25,C Jazz Minor Whole Note Long Tone Fermata Pattern 25,305_c_jazz_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/305_c_jazz_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,c,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+306,26,C Jazz Minor Dotted Half Note Long Tone Pattern 26,306_c_jazz_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/306_c_jazz_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,c,jazz_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+307,27,C Jazz Minor Quarter Note Rhythm Pattern 27,307_c_jazz_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/307_c_jazz_minor_quarter_note_rhythm_Pattern_27.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+308,28,C Jazz Minor Quarter Note Rhythm Pattern 28,308_c_jazz_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/308_c_jazz_minor_quarter_note_rhythm_Pattern_28.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+309,29,C Jazz Minor Quarter Note Rhythm Pattern 29,309_c_jazz_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/309_c_jazz_minor_quarter_note_rhythm_Pattern_29.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+310,30,C Jazz Minor Half Note Scale Pattern 30,310_c_jazz_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/310_c_jazz_minor_half_note_scale_Pattern_30.cropped.png,c,jazz_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+311,31,C Jazz Minor Scale Pattern 31,311_c_jazz_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/311_c_jazz_minor_scale_Pattern_31.cropped.png,c,jazz_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+312,32,C Jazz Minor Quarter Note Rhythm Pattern 32,312_c_jazz_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/312_c_jazz_minor_quarter_note_rhythm_Pattern_32.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+313,33,C Jazz Minor Quarter Note Rhythm Pattern 33,313_c_jazz_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/313_c_jazz_minor_quarter_note_rhythm_Pattern_33.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+314,34,C Jazz Minor Quarter Note Rhythm Pattern 34,314_c_jazz_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/314_c_jazz_minor_quarter_note_rhythm_Pattern_34.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+315,35,C Jazz Minor Quarter Note Scale Pattern 35,315_c_jazz_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/315_c_jazz_minor_quarter_note_scale_Pattern_35.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+316,36,C Jazz Minor Quarter Note Scale Pattern 36,316_c_jazz_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/316_c_jazz_minor_quarter_note_scale_Pattern_36.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+317,37,C Jazz Minor Quarter Note Scale Pattern 37,317_c_jazz_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/317_c_jazz_minor_quarter_note_scale_Pattern_37.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+318,38,C Jazz Minor Quarter Note Scale Pattern 38,318_c_jazz_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/318_c_jazz_minor_quarter_note_scale_Pattern_38.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+319,39,C Jazz Minor Quarter Note Scale Pattern 39,319_c_jazz_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/319_c_jazz_minor_quarter_note_scale_Pattern_39.cropped.png,c,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+320,0,D Major Whole Note Long Tone Fermata Pattern 0,320_d_major_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/320_d_major_whole_note_long_tone_fermata_Pattern_0.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+321,1,D Major Whole Note Long Tone Fermata Pattern 1,321_d_major_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/321_d_major_whole_note_long_tone_fermata_Pattern_1.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+322,2,D Major Quarter-Note Rhythm Pattern 2,322_d_major_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/322_d_major_quarter-note_rhythm_Pattern_2.cropped.png,d,major,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+323,3,D Major Quarter-Note Rhythm Pattern 3,323_d_major_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/323_d_major_quarter-note_rhythm_Pattern_3.cropped.png,d,major,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+324,4,D Major Quarter-Note Rhythm Pattern 4,324_d_major_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/324_d_major_quarter-note_rhythm_Pattern_4.cropped.png,d,major,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+325,5,D Major Quarter-Note Rhythm Pattern 5,325_d_major_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/325_d_major_quarter-note_rhythm_Pattern_5.cropped.png,d,major,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+326,6,D Major Whole Note Long Tone Pattern 6,326_d_major_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/326_d_major_whole_note_long_tone_Pattern_6.cropped.png,d,major,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+327,7,D Major Quarter-Note Interval Pattern 7,327_d_major_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/327_d_major_quarter-note_interval_Pattern_7.cropped.png,d,major,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+328,8,D Major Whole Note Long Tone Fermata Pattern 8,328_d_major_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/328_d_major_whole_note_long_tone_fermata_Pattern_8.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+329,9,D Major Quarter Note Scale Pattern 9,329_d_major_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/329_d_major_quarter_note_scale_Pattern_9.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+330,10,D Major Whole Note Long Tone Fermata Pattern 10,330_d_major_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/330_d_major_whole_note_long_tone_fermata_Pattern_10.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+331,11,D Major Quarter Note Scale Pattern 11,331_d_major_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/331_d_major_quarter_note_scale_Pattern_11.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+332,12,D Major Quarter Note Arpeggio Pattern 12,332_d_major_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/332_d_major_quarter_note_arpeggio_Pattern_12.cropped.png,d,major,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+333,13,D Major Whole Note Long Tone Fermata Pattern 13,333_d_major_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/333_d_major_whole_note_long_tone_fermata_Pattern_13.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+334,14,D Major Quarter Note Scale Pattern 14,334_d_major_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/334_d_major_quarter_note_scale_Pattern_14.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+335,15,D Major Quarter Note Scale Pattern 15,335_d_major_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/335_d_major_quarter_note_scale_Pattern_15.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+336,16,D Major Whole Note Long Tone Fermata Pattern 16,336_d_major_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/336_d_major_whole_note_long_tone_fermata_Pattern_16.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+337,17,D Major Quarter Note Scale Pattern 17,337_d_major_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/337_d_major_quarter_note_scale_Pattern_17.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+338,18,D Major Quarter Note Scale Pattern 18,338_d_major_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/338_d_major_quarter_note_scale_Pattern_18.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+339,19,D Major Whole Note Long Tone Fermata Pattern 19,339_d_major_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/339_d_major_whole_note_long_tone_fermata_Pattern_19.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+340,20,D Major Quarter Note Scale Pattern 20,340_d_major_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/340_d_major_quarter_note_scale_Pattern_20.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+341,21,D Major Quarter Note Arpeggio Pattern 21,341_d_major_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/341_d_major_quarter_note_arpeggio_Pattern_21.cropped.png,d,major,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+342,22,D Major Quarter Note Scale Pattern 22,342_d_major_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/342_d_major_quarter_note_scale_Pattern_22.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+343,23,D Major Quarter Note Arpeggio Pattern 23,343_d_major_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/343_d_major_quarter_note_arpeggio_Pattern_23.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+344,24,D Major Quarter Note Arpeggio Pattern 24,344_d_major_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/344_d_major_quarter_note_arpeggio_Pattern_24.cropped.png,d,major,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+345,25,D Major Whole Note Long Tone Fermata Pattern 25,345_d_major_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/345_d_major_whole_note_long_tone_fermata_Pattern_25.cropped.png,d,major,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+346,26,D Major Dotted Half Note Long Tone Pattern 26,346_d_major_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/346_d_major_dotted_half_note_long_tone_Pattern_26.cropped.png,d,major,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+347,27,D Major Quarter Note Rhythm Pattern 27,347_d_major_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/347_d_major_quarter_note_rhythm_Pattern_27.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+348,28,D Major Quarter Note Rhythm Pattern 28,348_d_major_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/348_d_major_quarter_note_rhythm_Pattern_28.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+349,29,D Major Quarter Note Rhythm Pattern 29,349_d_major_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/349_d_major_quarter_note_rhythm_Pattern_29.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+350,30,D Major Half Note Scale Pattern 30,350_d_major_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/350_d_major_half_note_scale_Pattern_30.cropped.png,d,major,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+351,31,D Major Scale Pattern 31,351_d_major_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/351_d_major_scale_Pattern_31.cropped.png,d,major,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+352,32,D Major Quarter Note Rhythm Pattern 32,352_d_major_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/352_d_major_quarter_note_rhythm_Pattern_32.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+353,33,D Major Quarter Note Rhythm Pattern 33,353_d_major_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/353_d_major_quarter_note_rhythm_Pattern_33.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+354,34,D Major Quarter Note Rhythm Pattern 34,354_d_major_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/354_d_major_quarter_note_rhythm_Pattern_34.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+355,35,D Major Quarter Note Scale Pattern 35,355_d_major_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/355_d_major_quarter_note_scale_Pattern_35.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+356,36,D Major Quarter Note Scale Pattern 36,356_d_major_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/356_d_major_quarter_note_scale_Pattern_36.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+357,37,D Major Quarter Note Scale Pattern 37,357_d_major_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/357_d_major_quarter_note_scale_Pattern_37.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+358,38,D Major Quarter Note Scale Pattern 38,358_d_major_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/358_d_major_quarter_note_scale_Pattern_38.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+359,39,D Major Quarter Note Scale Pattern 39,359_d_major_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/359_d_major_quarter_note_scale_Pattern_39.cropped.png,d,major,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+360,0,D Natural Minor Whole Note Long Tone Fermata Pattern 0,360_d_natural_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/360_d_natural_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+361,1,D Natural Minor Whole Note Long Tone Fermata Pattern 1,361_d_natural_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/361_d_natural_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+362,2,D Natural Minor Quarter-Note Rhythm Pattern 2,362_d_natural_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/362_d_natural_minor_quarter-note_rhythm_Pattern_2.cropped.png,d,natural_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+363,3,D Natural Minor Quarter-Note Rhythm Pattern 3,363_d_natural_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/363_d_natural_minor_quarter-note_rhythm_Pattern_3.cropped.png,d,natural_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+364,4,D Natural Minor Quarter-Note Rhythm Pattern 4,364_d_natural_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/364_d_natural_minor_quarter-note_rhythm_Pattern_4.cropped.png,d,natural_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+365,5,D Natural Minor Quarter-Note Rhythm Pattern 5,365_d_natural_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/365_d_natural_minor_quarter-note_rhythm_Pattern_5.cropped.png,d,natural_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+366,6,D Natural Minor Whole Note Long Tone Pattern 6,366_d_natural_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/366_d_natural_minor_whole_note_long_tone_Pattern_6.cropped.png,d,natural_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+367,7,D Natural Minor Quarter-Note Interval Pattern 7,367_d_natural_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/367_d_natural_minor_quarter-note_interval_Pattern_7.cropped.png,d,natural_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+368,8,D Natural Minor Whole Note Long Tone Fermata Pattern 8,368_d_natural_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/368_d_natural_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+369,9,D Natural Minor Quarter Note Scale Pattern 9,369_d_natural_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/369_d_natural_minor_quarter_note_scale_Pattern_9.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+370,10,D Natural Minor Whole Note Long Tone Fermata Pattern 10,370_d_natural_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/370_d_natural_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+371,11,D Natural Minor Quarter Note Scale Pattern 11,371_d_natural_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/371_d_natural_minor_quarter_note_scale_Pattern_11.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+372,12,D Natural Minor Quarter Note Arpeggio Pattern 12,372_d_natural_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/372_d_natural_minor_quarter_note_arpeggio_Pattern_12.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+373,13,D Natural Minor Whole Note Long Tone Fermata Pattern 13,373_d_natural_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/373_d_natural_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+374,14,D Natural Minor Quarter Note Scale Pattern 14,374_d_natural_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/374_d_natural_minor_quarter_note_scale_Pattern_14.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+375,15,D Natural Minor Quarter Note Scale Pattern 15,375_d_natural_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/375_d_natural_minor_quarter_note_scale_Pattern_15.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+376,16,D Natural Minor Whole Note Long Tone Fermata Pattern 16,376_d_natural_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/376_d_natural_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+377,17,D Natural Minor Quarter Note Scale Pattern 17,377_d_natural_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/377_d_natural_minor_quarter_note_scale_Pattern_17.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+378,18,D Natural Minor Quarter Note Scale Pattern 18,378_d_natural_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/378_d_natural_minor_quarter_note_scale_Pattern_18.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+379,19,D Natural Minor Whole Note Long Tone Fermata Pattern 19,379_d_natural_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/379_d_natural_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+380,20,D Natural Minor Quarter Note Scale Pattern 20,380_d_natural_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/380_d_natural_minor_quarter_note_scale_Pattern_20.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+381,21,D Natural Minor Quarter Note Arpeggio Pattern 21,381_d_natural_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/381_d_natural_minor_quarter_note_arpeggio_Pattern_21.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+382,22,D Natural Minor Quarter Note Scale Pattern 22,382_d_natural_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/382_d_natural_minor_quarter_note_scale_Pattern_22.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+383,23,D Natural Minor Quarter Note Arpeggio Pattern 23,383_d_natural_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/383_d_natural_minor_quarter_note_arpeggio_Pattern_23.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+384,24,D Natural Minor Quarter Note Arpeggio Pattern 24,384_d_natural_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/384_d_natural_minor_quarter_note_arpeggio_Pattern_24.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+385,25,D Natural Minor Whole Note Long Tone Fermata Pattern 25,385_d_natural_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/385_d_natural_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,d,natural_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+386,26,D Natural Minor Dotted Half Note Long Tone Pattern 26,386_d_natural_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/386_d_natural_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,d,natural_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+387,27,D Natural Minor Quarter Note Rhythm Pattern 27,387_d_natural_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/387_d_natural_minor_quarter_note_rhythm_Pattern_27.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+388,28,D Natural Minor Quarter Note Rhythm Pattern 28,388_d_natural_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/388_d_natural_minor_quarter_note_rhythm_Pattern_28.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+389,29,D Natural Minor Quarter Note Rhythm Pattern 29,389_d_natural_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/389_d_natural_minor_quarter_note_rhythm_Pattern_29.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+390,30,D Natural Minor Half Note Scale Pattern 30,390_d_natural_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/390_d_natural_minor_half_note_scale_Pattern_30.cropped.png,d,natural_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+391,31,D Natural Minor Scale Pattern 31,391_d_natural_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/391_d_natural_minor_scale_Pattern_31.cropped.png,d,natural_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+392,32,D Natural Minor Quarter Note Rhythm Pattern 32,392_d_natural_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/392_d_natural_minor_quarter_note_rhythm_Pattern_32.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+393,33,D Natural Minor Quarter Note Rhythm Pattern 33,393_d_natural_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/393_d_natural_minor_quarter_note_rhythm_Pattern_33.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+394,34,D Natural Minor Quarter Note Rhythm Pattern 34,394_d_natural_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/394_d_natural_minor_quarter_note_rhythm_Pattern_34.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+395,35,D Natural Minor Quarter Note Scale Pattern 35,395_d_natural_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/395_d_natural_minor_quarter_note_scale_Pattern_35.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+396,36,D Natural Minor Quarter Note Scale Pattern 36,396_d_natural_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/396_d_natural_minor_quarter_note_scale_Pattern_36.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+397,37,D Natural Minor Quarter Note Scale Pattern 37,397_d_natural_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/397_d_natural_minor_quarter_note_scale_Pattern_37.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+398,38,D Natural Minor Quarter Note Scale Pattern 38,398_d_natural_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/398_d_natural_minor_quarter_note_scale_Pattern_38.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+399,39,D Natural Minor Quarter Note Scale Pattern 39,399_d_natural_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/399_d_natural_minor_quarter_note_scale_Pattern_39.cropped.png,d,natural_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+400,0,D Harmonic Minor Whole Note Long Tone Fermata Pattern 0,400_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/400_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+401,1,D Harmonic Minor Whole Note Long Tone Fermata Pattern 1,401_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/401_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+402,2,D Harmonic Minor Quarter-Note Rhythm Pattern 2,402_d_harmonic_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/402_d_harmonic_minor_quarter-note_rhythm_Pattern_2.cropped.png,d,harmonic_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+403,3,D Harmonic Minor Quarter-Note Rhythm Pattern 3,403_d_harmonic_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/403_d_harmonic_minor_quarter-note_rhythm_Pattern_3.cropped.png,d,harmonic_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+404,4,D Harmonic Minor Quarter-Note Rhythm Pattern 4,404_d_harmonic_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/404_d_harmonic_minor_quarter-note_rhythm_Pattern_4.cropped.png,d,harmonic_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+405,5,D Harmonic Minor Quarter-Note Rhythm Pattern 5,405_d_harmonic_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/405_d_harmonic_minor_quarter-note_rhythm_Pattern_5.cropped.png,d,harmonic_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+406,6,D Harmonic Minor Whole Note Long Tone Pattern 6,406_d_harmonic_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/406_d_harmonic_minor_whole_note_long_tone_Pattern_6.cropped.png,d,harmonic_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+407,7,D Harmonic Minor Quarter-Note Interval Pattern 7,407_d_harmonic_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/407_d_harmonic_minor_quarter-note_interval_Pattern_7.cropped.png,d,harmonic_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+408,8,D Harmonic Minor Whole Note Long Tone Fermata Pattern 8,408_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/408_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+409,9,D Harmonic Minor Quarter Note Scale Pattern 9,409_d_harmonic_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/409_d_harmonic_minor_quarter_note_scale_Pattern_9.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+410,10,D Harmonic Minor Whole Note Long Tone Fermata Pattern 10,410_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/410_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+411,11,D Harmonic Minor Quarter Note Scale Pattern 11,411_d_harmonic_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/411_d_harmonic_minor_quarter_note_scale_Pattern_11.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+412,12,D Harmonic Minor Quarter Note Arpeggio Pattern 12,412_d_harmonic_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/412_d_harmonic_minor_quarter_note_arpeggio_Pattern_12.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+413,13,D Harmonic Minor Whole Note Long Tone Fermata Pattern 13,413_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/413_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+414,14,D Harmonic Minor Quarter Note Scale Pattern 14,414_d_harmonic_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/414_d_harmonic_minor_quarter_note_scale_Pattern_14.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+415,15,D Harmonic Minor Quarter Note Scale Pattern 15,415_d_harmonic_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/415_d_harmonic_minor_quarter_note_scale_Pattern_15.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+416,16,D Harmonic Minor Whole Note Long Tone Fermata Pattern 16,416_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/416_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+417,17,D Harmonic Minor Quarter Note Scale Pattern 17,417_d_harmonic_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/417_d_harmonic_minor_quarter_note_scale_Pattern_17.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+418,18,D Harmonic Minor Quarter Note Scale Pattern 18,418_d_harmonic_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/418_d_harmonic_minor_quarter_note_scale_Pattern_18.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+419,19,D Harmonic Minor Whole Note Long Tone Fermata Pattern 19,419_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/419_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+420,20,D Harmonic Minor Quarter Note Scale Pattern 20,420_d_harmonic_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/420_d_harmonic_minor_quarter_note_scale_Pattern_20.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+421,21,D Harmonic Minor Quarter Note Arpeggio Pattern 21,421_d_harmonic_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/421_d_harmonic_minor_quarter_note_arpeggio_Pattern_21.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+422,22,D Harmonic Minor Quarter Note Scale Pattern 22,422_d_harmonic_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/422_d_harmonic_minor_quarter_note_scale_Pattern_22.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+423,23,D Harmonic Minor Quarter Note Arpeggio Pattern 23,423_d_harmonic_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/423_d_harmonic_minor_quarter_note_arpeggio_Pattern_23.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+424,24,D Harmonic Minor Quarter Note Arpeggio Pattern 24,424_d_harmonic_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/424_d_harmonic_minor_quarter_note_arpeggio_Pattern_24.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+425,25,D Harmonic Minor Whole Note Long Tone Fermata Pattern 25,425_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/425_d_harmonic_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,d,harmonic_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+426,26,D Harmonic Minor Dotted Half Note Long Tone Pattern 26,426_d_harmonic_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/426_d_harmonic_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,d,harmonic_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+427,27,D Harmonic Minor Quarter Note Rhythm Pattern 27,427_d_harmonic_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/427_d_harmonic_minor_quarter_note_rhythm_Pattern_27.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+428,28,D Harmonic Minor Quarter Note Rhythm Pattern 28,428_d_harmonic_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/428_d_harmonic_minor_quarter_note_rhythm_Pattern_28.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+429,29,D Harmonic Minor Quarter Note Rhythm Pattern 29,429_d_harmonic_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/429_d_harmonic_minor_quarter_note_rhythm_Pattern_29.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+430,30,D Harmonic Minor Half Note Scale Pattern 30,430_d_harmonic_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/430_d_harmonic_minor_half_note_scale_Pattern_30.cropped.png,d,harmonic_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+431,31,D Harmonic Minor Scale Pattern 31,431_d_harmonic_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/431_d_harmonic_minor_scale_Pattern_31.cropped.png,d,harmonic_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+432,32,D Harmonic Minor Quarter Note Rhythm Pattern 32,432_d_harmonic_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/432_d_harmonic_minor_quarter_note_rhythm_Pattern_32.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+433,33,D Harmonic Minor Quarter Note Rhythm Pattern 33,433_d_harmonic_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/433_d_harmonic_minor_quarter_note_rhythm_Pattern_33.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+434,34,D Harmonic Minor Quarter Note Rhythm Pattern 34,434_d_harmonic_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/434_d_harmonic_minor_quarter_note_rhythm_Pattern_34.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+435,35,D Harmonic Minor Quarter Note Scale Pattern 35,435_d_harmonic_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/435_d_harmonic_minor_quarter_note_scale_Pattern_35.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+436,36,D Harmonic Minor Quarter Note Scale Pattern 36,436_d_harmonic_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/436_d_harmonic_minor_quarter_note_scale_Pattern_36.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+437,37,D Harmonic Minor Quarter Note Scale Pattern 37,437_d_harmonic_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/437_d_harmonic_minor_quarter_note_scale_Pattern_37.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+438,38,D Harmonic Minor Quarter Note Scale Pattern 38,438_d_harmonic_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/438_d_harmonic_minor_quarter_note_scale_Pattern_38.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+439,39,D Harmonic Minor Quarter Note Scale Pattern 39,439_d_harmonic_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/439_d_harmonic_minor_quarter_note_scale_Pattern_39.cropped.png,d,harmonic_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+440,0,D Jazz Minor Whole Note Long Tone Fermata Pattern 0,440_d_jazz_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/440_d_jazz_minor_whole_note_long_tone_fermata_Pattern_0.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+441,1,D Jazz Minor Whole Note Long Tone Fermata Pattern 1,441_d_jazz_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/441_d_jazz_minor_whole_note_long_tone_fermata_Pattern_1.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note for as long as you can. Make sure it has a clean ending!,long_tone
+442,2,D Jazz Minor Quarter-Note Rhythm Pattern 2,442_d_jazz_minor_quarter-note_rhythm_Pattern_2.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/442_d_jazz_minor_quarter-note_rhythm_Pattern_2.cropped.png,d,jazz_minor,quarter-note,[],,"(4, 4)",,Play both notes evenly and in time.,rhythm
+443,3,D Jazz Minor Quarter-Note Rhythm Pattern 3,443_d_jazz_minor_quarter-note_rhythm_Pattern_3.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/443_d_jazz_minor_quarter-note_rhythm_Pattern_3.cropped.png,d,jazz_minor,quarter-note,[],,"(4, 4)",,Play the notes evenly and precisely.,rhythm
+444,4,D Jazz Minor Quarter-Note Rhythm Pattern 4,444_d_jazz_minor_quarter-note_rhythm_Pattern_4.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/444_d_jazz_minor_quarter-note_rhythm_Pattern_4.cropped.png,d,jazz_minor,quarter-note,[],,"(4, 4)",,"Quick, precise finger movement.",rhythm
+445,5,D Jazz Minor Quarter-Note Rhythm Pattern 5,445_d_jazz_minor_quarter-note_rhythm_Pattern_5.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/445_d_jazz_minor_quarter-note_rhythm_Pattern_5.cropped.png,d,jazz_minor,quarter-note,[],,"(4, 4)",,Play all notes with the same tone.,rhythm
+446,6,D Jazz Minor Whole Note Long Tone Pattern 6,446_d_jazz_minor_whole_note_long_tone_Pattern_6.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/446_d_jazz_minor_whole_note_long_tone_Pattern_6.cropped.png,d,jazz_minor,whole_note,[],,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+447,7,D Jazz Minor Quarter-Note Interval Pattern 7,447_d_jazz_minor_quarter-note_interval_Pattern_7.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/447_d_jazz_minor_quarter-note_interval_Pattern_7.cropped.png,d,jazz_minor,quarter-note,[],,"(4, 4)",,Quick and precise finger movement.,interval
+448,8,D Jazz Minor Whole Note Long Tone Fermata Pattern 8,448_d_jazz_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/448_d_jazz_minor_whole_note_long_tone_fermata_Pattern_8.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+449,9,D Jazz Minor Quarter Note Scale Pattern 9,449_d_jazz_minor_quarter_note_scale_Pattern_9.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/449_d_jazz_minor_quarter_note_scale_Pattern_9.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+450,10,D Jazz Minor Whole Note Long Tone Fermata Pattern 10,450_d_jazz_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/450_d_jazz_minor_whole_note_long_tone_fermata_Pattern_10.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+451,11,D Jazz Minor Quarter Note Scale Pattern 11,451_d_jazz_minor_quarter_note_scale_Pattern_11.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/451_d_jazz_minor_quarter_note_scale_Pattern_11.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Play all notes evenly. Look ahead to the next note.,scale
+452,12,D Jazz Minor Quarter Note Arpeggio Pattern 12,452_d_jazz_minor_quarter_note_arpeggio_Pattern_12.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/452_d_jazz_minor_quarter_note_arpeggio_Pattern_12.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+453,13,D Jazz Minor Whole Note Long Tone Fermata Pattern 13,453_d_jazz_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/453_d_jazz_minor_whole_note_long_tone_fermata_Pattern_13.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+454,14,D Jazz Minor Quarter Note Scale Pattern 14,454_d_jazz_minor_quarter_note_scale_Pattern_14.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/454_d_jazz_minor_quarter_note_scale_Pattern_14.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Play each note evenly. Repeat as many times as you can!,scale
+455,15,D Jazz Minor Quarter Note Scale Pattern 15,455_d_jazz_minor_quarter_note_scale_Pattern_15.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/455_d_jazz_minor_quarter_note_scale_Pattern_15.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+456,16,D Jazz Minor Whole Note Long Tone Fermata Pattern 16,456_d_jazz_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/456_d_jazz_minor_whole_note_long_tone_fermata_Pattern_16.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+457,17,D Jazz Minor Quarter Note Scale Pattern 17,457_d_jazz_minor_quarter_note_scale_Pattern_17.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/457_d_jazz_minor_quarter_note_scale_Pattern_17.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Play strictly in time with the metronome.,scale
+458,18,D Jazz Minor Quarter Note Scale Pattern 18,458_d_jazz_minor_quarter_note_scale_Pattern_18.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/458_d_jazz_minor_quarter_note_scale_Pattern_18.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+459,19,D Jazz Minor Whole Note Long Tone Fermata Pattern 19,459_d_jazz_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/459_d_jazz_minor_whole_note_long_tone_fermata_Pattern_19.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,Hold the note with a strong sound for as long as you can. Make sure it has a clean ending!,long_tone
+460,20,D Jazz Minor Quarter Note Scale Pattern 20,460_d_jazz_minor_quarter_note_scale_Pattern_20.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/460_d_jazz_minor_quarter_note_scale_Pattern_20.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Adding the ninth helps the scale fit the metre.,scale
+461,21,D Jazz Minor Quarter Note Arpeggio Pattern 21,461_d_jazz_minor_quarter_note_arpeggio_Pattern_21.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/461_d_jazz_minor_quarter_note_arpeggio_Pattern_21.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,This is an arpeggio. Notice how it skips notes..,arpeggio
+462,22,D Jazz Minor Quarter Note Scale Pattern 22,462_d_jazz_minor_quarter_note_scale_Pattern_22.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/462_d_jazz_minor_quarter_note_scale_Pattern_22.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Quick finger movement for a clean sound.,scale
+463,23,D Jazz Minor Quarter Note Arpeggio Pattern 23,463_d_jazz_minor_quarter_note_arpeggio_Pattern_23.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/463_d_jazz_minor_quarter_note_arpeggio_Pattern_23.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+464,24,D Jazz Minor Quarter Note Arpeggio Pattern 24,464_d_jazz_minor_quarter_note_arpeggio_Pattern_24.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/464_d_jazz_minor_quarter_note_arpeggio_Pattern_24.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,Repeat as many times as possible before the last note.,arpeggio
+465,25,D Jazz Minor Whole Note Long Tone Fermata Pattern 25,465_d_jazz_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/465_d_jazz_minor_whole_note_long_tone_fermata_Pattern_25.cropped.png,d,jazz_minor,whole_note,"[{'articulation': 'fermata', 'index': 0, 'name': 'fermata'}]",,"(4, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+466,26,D Jazz Minor Dotted Half Note Long Tone Pattern 26,466_d_jazz_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/466_d_jazz_minor_dotted_half_note_long_tone_Pattern_26.cropped.png,d,jazz_minor,dotted_half_note,[],,"(3, 4)",,"Hold the note for the full value, off on 1 (-1). 
+Use a mp to mf dynamic. 
+Strive for a consistent, clear, in-tune, sound.",long_tone
+467,27,D Jazz Minor Quarter Note Rhythm Pattern 27,467_d_jazz_minor_quarter_note_rhythm_Pattern_27.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/467_d_jazz_minor_quarter_note_rhythm_Pattern_27.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+468,28,D Jazz Minor Quarter Note Rhythm Pattern 28,468_d_jazz_minor_quarter_note_rhythm_Pattern_28.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/468_d_jazz_minor_quarter_note_rhythm_Pattern_28.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+469,29,D Jazz Minor Quarter Note Rhythm Pattern 29,469_d_jazz_minor_quarter_note_rhythm_Pattern_29.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/469_d_jazz_minor_quarter_note_rhythm_Pattern_29.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold each note for the full value. 
+Use a comfortable dynamic. 
+Repeat twice and end with a good whole note.
+Play well 5 times.",rhythm
+470,30,D Jazz Minor Half Note Scale Pattern 30,470_d_jazz_minor_half_note_scale_Pattern_30.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/470_d_jazz_minor_half_note_scale_Pattern_30.cropped.png,d,jazz_minor,half_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.
+ Play each note evenly.",scale
+471,31,D Jazz Minor Scale Pattern 31,471_d_jazz_minor_scale_Pattern_31.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/471_d_jazz_minor_scale_Pattern_31.cropped.png,d,jazz_minor,,[],,"(3, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+472,32,D Jazz Minor Quarter Note Rhythm Pattern 32,472_d_jazz_minor_quarter_note_rhythm_Pattern_32.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/472_d_jazz_minor_quarter_note_rhythm_Pattern_32.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+473,33,D Jazz Minor Quarter Note Rhythm Pattern 33,473_d_jazz_minor_quarter_note_rhythm_Pattern_33.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/473_d_jazz_minor_quarter_note_rhythm_Pattern_33.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+474,34,D Jazz Minor Quarter Note Rhythm Pattern 34,474_d_jazz_minor_quarter_note_rhythm_Pattern_34.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/474_d_jazz_minor_quarter_note_rhythm_Pattern_34.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",rhythm
+475,35,D Jazz Minor Quarter Note Scale Pattern 35,475_d_jazz_minor_quarter_note_scale_Pattern_35.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/475_d_jazz_minor_quarter_note_scale_Pattern_35.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+476,36,D Jazz Minor Quarter Note Scale Pattern 36,476_d_jazz_minor_quarter_note_scale_Pattern_36.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/476_d_jazz_minor_quarter_note_scale_Pattern_36.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+477,37,D Jazz Minor Quarter Note Scale Pattern 37,477_d_jazz_minor_quarter_note_scale_Pattern_37.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/477_d_jazz_minor_quarter_note_scale_Pattern_37.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+478,38,D Jazz Minor Quarter Note Scale Pattern 38,478_d_jazz_minor_quarter_note_scale_Pattern_38.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/478_d_jazz_minor_quarter_note_scale_Pattern_38.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
+479,39,D Jazz Minor Quarter Note Scale Pattern 39,479_d_jazz_minor_quarter_note_scale_Pattern_39.cropped.png,https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/479_d_jazz_minor_quarter_note_scale_Pattern_39.cropped.png,d,jazz_minor,quarter_note,[],,"(4, 4)",,"Hold the note for the full value. 
+Use a comfortable dynamic. 
+Strive for a consistent, clear, in-tune, sound.",scale
