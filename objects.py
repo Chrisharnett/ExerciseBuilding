@@ -1,11 +1,12 @@
 import math
-
 import abjad
 import os
+import random
+
 
 class Pattern:
     def __init__(self, patternId, patternType, notePattern, preamble, description="",
-                 timesSignature=(4, 4), rhythm="", articulation="", dynamic=""):
+                 timeSignature=(4, 4), rhythm="", articulation="", dynamic="", direction=""):
         self.__patternId = patternId
         self.__patternType = patternType
         self.__notePattern = notePattern
@@ -14,7 +15,8 @@ class Pattern:
         self.__rhythm = rhythm
         self.__articulation = articulation
         self.__dynamic = dynamic
-        self.__timeSignature = timesSignature
+        self.__timeSignature = timeSignature
+        self.__direction = direction
 
     @property
     def getPatternId(self):
@@ -52,11 +54,17 @@ class Pattern:
     def getTimeSignature(self):
         return self.__timeSignature
 
+    @ property
+    def getDirection(self):
+        return self.__direction
+
     def __str__(self):
         name = str(self.__patternId) + "_"
         if self.__rhythm != "":
             name += self.__rhythm + "_"
         name += self.__patternType
+        if self.getDirection != "":
+            name += self.getDirection
         return name
 
 
@@ -65,13 +73,31 @@ class Exercise(Pattern):
         super().__init__(pattern.getPatternId, pattern.getPatternType, pattern.getNotePattern,
                          pattern.getPreamble, pattern.getDescription,
                          pattern.getTimeSignature, pattern.getRhythm, pattern.getArticulation,
-                         pattern.getDynamic)
+                         pattern.getDynamic, pattern.getDirection)
         self.__exerciseId = exerciseId
         self.__key = key
         self.__mode = mode
         self.__direction = direction
-        self.__score = self.buildScore()
-        self.__image = self.imageURL()
+        self.__score = self.buildScore
+        self.__exerciseFileName = str(exerciseId) + "_" + str(self)
+
+    def serialize(self):
+        return {"exerciseId": self.__exerciseId,
+                "patternId": self.getPatternId,
+                "exerciseName": str(self).replace("_", " ").title(),
+                "imageFilename": self.exerciseFileName + ".cropped.png",
+                "imageURL": 'https://mysaxpracticeexercisebucket.s3.amazonaws.com/img/' +
+                            self.exerciseFileName + '.cropped.png',
+                "key": self.getKey,
+                "mode": self.getMode,
+                "rhythm": self.getRhythm,
+                "articulation": self.getArticulation,
+                "dynamic": self.getDynamic,
+                "timeSignature": self.getTimeSignature,
+                "direction": self.getDirection,
+                "description": self.getDescription,
+                "patternType": self.getPatternType
+                }
 
     @property
     def getKey(self):
@@ -82,26 +108,30 @@ class Exercise(Pattern):
         return self.__mode
 
     @property
-    def getImage(self):
-        return self.__image
-
-    @property
     def getDirection(self):
         return self.__direction
 
+    @property
+    def exerciseFileName(self):
+        return self.__exerciseFileName
+
     def __str__(self):
         name = self.__key + "_" + self.__mode + "_"
-        if self.getRhythm != "":
+        if self.getRhythm:
             name += self.getRhythm + "_"
         name += self.getPatternType + "_"
         if self.getDirection != "":
             name += self.getDirection + "_"
         if self.getArticulation != "":
-            name += self.getArticulation + "_"
+            for articulation in self.getArticulation:
+                name += articulation.get("name") + "_"
         if self.getDynamic != "":
-            name += self.getDynamic
-        return name
+            name += self.getDynamic + "_"
+        if self.getDirection != "":
+            name += self.getDirection
+        return name + "Pattern_" + str(self.getPatternId)
 
+    @property
     def buildScore(self):
         container = abjad.Container("")
         scaleNotes = self.getScaleNotes()
@@ -125,8 +155,6 @@ class Exercise(Pattern):
         attachHere = ""
         if len(container) >= 1:
             attachHere = container[0][0]
-        # elif len(container) > 1:
-        #     attachHere = container[0][0]
         if attachHere != "":
             keySignature = abjad.KeySignature(
                 abjad.NamedPitchClass(self.__key), abjad.Mode(self.__mode))
@@ -136,6 +164,11 @@ class Exercise(Pattern):
             if not abjad.get.indicators(container[-1], abjad.Repeat):
                 bar_line = abjad.BarLine("|.")
                 abjad.attach(bar_line, container[-1])
+        if len(self.getArticulation) > 0:
+            for articulation in self.getArticulation:
+                if articulation.get("articulation").lower() == "fermata":
+                    a = abjad.Fermata()
+                    abjad.attach(a, container[articulation.get("index")][0])
 
         voice = abjad.Voice([container], name="Exercise_Voice")
         staff = abjad.Staff([voice], name="Exercise_Staff")
@@ -148,26 +181,70 @@ class Exercise(Pattern):
         return scaleNotes
 
     def numberToNote(self, scaleNotes, note):
-        noteNumber = (note[0] % 7)
-        noteOctave = math.floor(note[0]/8)
-        pitch = scaleNotes[noteNumber - 1]
+        n = note[0]
+        pitch = ""
+        octave = 0
+        if n < 0:
+            pitch = scaleNotes[n % 7]
+            noteOctave = math.floor(n / 8)
+            octave = abjad.NamedInterval(("-P" + str(7 + abs(noteOctave))))
+        elif n>=0:
+            noteNumber = (n % 7)
+            noteOctave = math.floor(n / 8)
+            pitch = scaleNotes[noteNumber - 1]
         if 0 < noteOctave:
             octave = abjad.NamedInterval(("+P" + (str(7 + noteOctave))))
-            pitch += octave
+        pitch += octave
+
         pitchName = pitch.get_name()
         n = pitchName + note[1] + " "
 
         return n
 
-    def imageURL(self):
+    def path(self):
+        return os.path.join("static/img/" + self.exerciseFileName) + ".cropped.png"
+
+    def createImage(self):
         preambleBlock = abjad.Block("context", items=[self.getPreamble])
-        lilypond_file = abjad.LilyPondFile([preambleBlock, self.__score])
-        namePath = os.path.join("static/img/" + str(self.__exerciseId) + str(self))
+        lilypond_file = abjad.LilyPondFile([self.getPreamble, self.__score])
+        namePath = os.path.join("static/img/" + self.exerciseFileName)
         abjad.persist.as_png(lilypond_file, namePath + ".png",
                              flags="-dcrop", resolution=300)
-        path = namePath + ".cropped.png"
+        os.remove(os.path.join("static/img/" + self.exerciseFileName) + ".ly")
 
-        return path
+class Routine:
+    def __init__(self, sessionExercises, intervals=3):
+        self.__sessionExercises = sessionExercises
+        self.__intervals = intervals
+        self.__sessionSequence = None
+
+    @property
+    def sessionExercises(self):
+        return self.__sessionExercises
+
+    @property
+    def sessionSequence(self):
+        if self.__sessionSequence:
+            return self.__sessionSequence
+        else:
+            return "No session created"
+
+    # change randomization to randomize each round as they come in.
+    def createSessionSequence(self):
+        s = []
+        randomizedIntervals = []
+        for exercise in self.sessionExercises:
+            s.append(exercise.get("name"))
+        for n in range(self.__intervals - 1):
+            for m in s:
+                randomizedIntervals.append(m)
+        random.shuffle(randomizedIntervals)
+        s += randomizedIntervals
+        self.__sessionSequence = s
+
+    def __iter__(self):
+        for exercise in self.__sessionExercises:
+            yield exercise
 
 
 class Instrument:
@@ -176,6 +253,7 @@ class Instrument:
         self.__lowNote = lowNote
         self.__highNote = highNote
 
+
 class Scale:
     def __init__(self, tonic, mode):
         self.__tonic = tonic
@@ -183,7 +261,10 @@ class Scale:
 
     def getPitches(self):
         pitchSets = {
-            "major": [0, 2, 4, 5, 7, 9, 11]
+            "major": [0, 2, 4, 5, 7, 9, 11],
+            "natural_minor": [0, 2, 3, 5, 7, 8, 10],
+            "harmonic_minor": [0, 2, 3, 5, 7, 8, 11],
+            "jazz_minor": [0, 2, 3, 5, 7, 9, 11],
         }
 
         return pitchSets
@@ -195,4 +276,3 @@ class Scale:
             pitch = tonic + scalePitch
             pitches.append(pitch)
         return pitches
-

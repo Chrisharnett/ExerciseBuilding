@@ -34,7 +34,7 @@ The Saxophone Shed
                 <li class="pt-3">
                     <h4>{{ exercise.__str__().replace("_", " ").title() }}</h4>
                     <br> <a href="">
-                    <img src="{{ exercise.getImage }}" alt="" class="bg-white text-dark"></a><br>
+                    <img src="{{ exercise.path() }}" alt="" class="bg-white text-dark"></a><br>
                 </li>
                 {% endfor %}
             </ul>

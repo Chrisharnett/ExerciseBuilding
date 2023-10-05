@@ -1,8 +1,45 @@
+import math
+
 preamble = r"""#(set-global-staff-size 14)
         """
+# All ascending scalar patterns
+def notePatterns(minNote, maxNote, maxLength):
+    allNotePatterns=[]
+    notes = []
 
-allPatterns = {
-"patternType": "long_tone",
+    # One note options
+    for i in range(minNote + 1, maxNote):
+        notes = [i]
+        allNotePatterns.append(notes)
+
+    # Ascending scalar options
+    for i in range(minNote, maxNote + 1):
+        notes = []
+        for j in range(1, i+1):
+            notes.append(j)
+        if notes:
+            allNotePatterns.append(notes)
+
+    # All descending scalar patterns
+
+    # All descending and ascending scalar patterns
+
+    return allNotePatterns
+
+
+
+def main():
+    minNote=1
+    maxNote=9
+    maxLength= 2 * (maxNote)
+    notePatterns(minNote, maxNote, maxLength)
+
+if __name__ == '__main__':
+    main()
+
+
+pattern = {
+"patternType": "",
 "notePattern": [["repeat", [1, "1"]]],
 "preamble": preamble,
 "description": "Hold the note for as long as you can. Make sure it has a clean ending!",

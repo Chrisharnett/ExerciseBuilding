@@ -29,12 +29,17 @@ The Saxophone Shed
 
 {% block exerciseImage %}
     <br><a href="">
-    <img src="{{ exercise.getImage() }}" alt="" class="p-3 bg-white text-dark"></a><br>
+    <img id="exerciseImage" src="{{ exercise.path() }}" alt="" class="p-3 bg-white text-dark"></a><br>
 {%  endblock %}
 
 {% block exerciseDescription %}
     <br>{{ exercise.getDescription }}<br><br>
 {% endblock %}
+
+{% block button %}
+    <p><a class="btn btn-primary btn-lg" href="{{ url_for('thisSession') }}" role="button" >Exercise &raquo;</a></p>
+{% endblock %}
+
 
 {% block Heading1_title %}
 {% endblock %}

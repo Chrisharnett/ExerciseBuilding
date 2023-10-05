@@ -7,6 +7,7 @@ The Practice Shed
 {% block Search %}
 
 {% endblock %}
+
 {% block Page_Title %}
 The Saxophone Shed
 {% endblock %}
@@ -28,13 +29,17 @@ The Saxophone Shed
 {% endblock %}
 
 {% block exerciseImage %}
-{#    TODO: check on syntax of string method #}
-    <h4>{{ exercise.__str__().replace("_", " ").title() }}</h4>
-    <br> <a href="">
-    <img src="{{ exercise.getImage }}" alt="" class="bg-white text-dark"></a><br>
+    <h2 id="exerciseTitle">{{ exercise.__str__().replace("_", " ").title() }}</h2>
+    <br><a href="">
+    <img id="exerciseImage" src="{{ url_for('static', filename='img/' + exercise.exerciseFileName +'.cropped.png') }}" alt=" {{ exercise.getDescription }}" class="p-3 bg-white text-dark"></a><br>
 {%  endblock %}
 
 {% block exerciseDescription %}
+    <br> <p id="exerciseDescription">{{ exercise.getDescription }}</p><br><br>
+{% endblock %}
+
+{% block button %}
+    <p><a class="btn btn-primary btn-lg" href="#" onclick="loadNextExercise()" role="button" >Next Exercise &raquo;</a></p>
 {% endblock %}
 
 {% block Heading1_title %}
@@ -75,5 +80,5 @@ The Saxophone Shed
 
 {% block footer_contents %}
     Chris Harnett <br>
-    The Saxoophone Shed
+    The Saxophone Shed
 {% endblock %}
